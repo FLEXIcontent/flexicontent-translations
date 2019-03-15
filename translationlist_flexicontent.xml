@@ -1,3 +1,4 @@
 <extensionset name="Flexicontent Translations" description="Flexicontent Translations Updates">
-<extension name="French" element="pkg_fr-FR" type="package" version="3.3.1.2" detailsurl="https://update.joomla.org/language/details3/fr-FR_details.xml"/>
+<extension name="French" element="pkg_fr-FR" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/fr-FR_details.xml"/>
+<extension name="Deutch" element="pkg_de-DE" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/de-DE_details.xmll"/>
 </extensionset>
