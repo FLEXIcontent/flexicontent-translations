@@ -1,15 +1,16 @@
 <extensionset name="Flexicontent Translations" description="Flexicontent Translations Updates">
-<extension name="Deutch" element="pkg_de-DE" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/local-details/cs_details.xmll"/>
-<extension name="Deutch" element="pkg_de-DE" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/local-details/de-DE_details.xmll"/>
-<extension name="Deutch" element="pkg_de-DE" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/local-details/en_details.xmll"/>
-<extension name="Deutch" element="pkg_de-DE" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/local-details/es-ES_details.xmll"/>
+<extension name="Czech" element="pkg_cs" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/local-details/cs_details.xml"/>
+<extension name="Deutch" element="pkg_de-DE" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/local-details/de-DE_details.xml"/>
+<extension name="Greek" element="pkg_el" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/local-details/el_details.xml"/>
+<extension name="Spanish" element="pkg_es-ES" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/local-details/es-ES_details.xml"/>
 <extension name="French" element="pkg_fr-FR" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/local-details/fr-FR_details.xml"/>
-<extension name="Deutch" element="pkg_de-DE" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/local-details/ja_details.xmll"/>
-<extension name="Deutch" element="pkg_de-DE" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/local-details/pl_details.xmll"/>
-<extension name="Deutch" element="pkg_de-DE" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/local-details/pt-BR_details.xmll"/>
-<extension name="Deutch" element="pkg_de-DE" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/local-details/pt-PT_details.xmll"/>
-<extension name="Deutch" element="pkg_de-DE" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/local-details/ru_details.xmll"/>
-<extension name="Deutch" element="pkg_de-DE" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/local-details/sv-SE_details.xmll"/>
-<extension name="Deutch" element="pkg_de-DE" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/local-details/th_details.xmll"/>
-<extension name="Deutch" element="pkg_de-DE" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/local-details/tr_details.xmll"/>
+<extension name="Japanese" element="pkg_ja" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/local-details/ja_details.xml"/>
+<extension name="Polish" element="pkg_pl" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/local-details/pl_details.xml"/>
+<extension name="Portuguese, Brazilian" element="pkg_pt-BR" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/local-details/pt-BR_details.xml"/>
+<extension name="Portugueseh" element="pkg_pt-PT" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/local-details/pt-PT_details.xml"/>
+<extension name="Russian" element="pkg_ru" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/local-details/ru_details.xml"/>
+<extension name="Swedish" element="pkg_sc-SE" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/local-details/sv-SE_details.xml"/>
+<extension name="Thai" element="pkg_th" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/local-details/th_details.xml"/>
+<extension name="Turkis" element="pkg_tr" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/local-details/tr_details.xml"/>
+<extension name="Chinese Traditional" element="zh-TW" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/local-details/zh-TW_details.xml"/>
 </extensionset>
