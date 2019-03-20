@@ -3,7 +3,7 @@
 <extension name="Deutch" element="pkg_de-DE" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/local-details/de-DE_details.xml"/>
 <extension name="Greek" element="pkg_el" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/local-details/el_details.xml"/>
 <extension name="Spanish" element="pkg_es-ES" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/local-details/es-ES_details.xml"/>
-<extension name="French" element="pkg_fr-FR" type="package" version="3.3.1.3" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/local-details/fr-FR_details.xml"/>
+<extension name="French" element="pkg_fr-FR" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/local-details/fr-FR_details.xml"/>
 <extension name="Japanese" element="pkg_ja" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/local-details/ja_details.xml"/>
 <extension name="Polish" element="pkg_pl" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/local-details/pl_details.xml"/>
 <extension name="Portuguese, Brazilian" element="pkg_pt-BR" type="package" version="3.3.1.2" detailsurl="https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/local-details/pt-BR_details.xml"/>
