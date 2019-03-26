@@ -3,8 +3,20 @@
 	<name>French</name>
 	<description>French Translation of Flexicontent</description>
 	<element>pkg_fr-FR</element>
-	<type>package</type>
+	<type>file</type>
 	<version>3.3.1.3</version>
+	<downloads>
+	<downloadurl type="full" format="zip">
+	https://crowdin.com/backend/download/project/flexicontent-cck-for-joomla/fr.zip
+	</downloadurl>
+	</downloads>
+	</update>
+	<update>
+	<name>French</name>
+	<description>French Translation of Flexicontent</description>
+	<element>pkg_fr-FR</element>
+	<type>file</type>
+	<version>3.3.1.2</version>
 	<downloads>
 	<downloadurl type="full" format="zip">
 	https://crowdin.com/backend/download/project/flexicontent-cck-for-joomla/fr.zip
