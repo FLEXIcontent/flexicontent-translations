@@ -1,6 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <updates>
 	<update>
-	<name>French</name>
+	<name>French Translation of Flexicontent</name>
 	<description>French Translation of Flexicontent</description>
 	<element>pkg_fr-FR</element>
 	<type>file</type>
@@ -9,6 +10,7 @@
 	<downloadurl type="full" format="zip">
 	https://crowdin.com/backend/download/project/flexicontent-cck-for-joomla/fr.zip
 	</downloadurl>
+	<targetplatform name="joomla" version="3"/>
 	</downloads>
 	</update>
 	<update>
@@ -21,6 +23,7 @@
 	<downloadurl type="full" format="zip">
 	https://crowdin.com/backend/download/project/flexicontent-cck-for-joomla/fr.zip
 	</downloadurl>
+	<targetplatform name="joomla" version="3"/>
 	</downloads>
 	</update>
 </updates>
