@@ -16,16 +16,16 @@
 	<fileset>
 
 		<!-- Front-end -->
-		<files folder="site/language/en-GB" target="language/de-DE">
+		<files folder="site/language/de-DE" target="language/de-DE">
 			<filename>de-DE.com_flexicontent.ini</filename>
 		</files>
-		<files folder="site/templates/blog/language/en-GB" target="component/com_flexicontent/templates/blog/language/en-GB">
+		<files folder="site/templates/blog/language/de-DE" target="component/com_flexicontent/templates/blog/language/de-DE">
 			<filename>de-DE.ini</filename>
 		</files>
-		<files folder="site/templates/default/language/en-GB" target="component/com_flexicontent/templates/default/language/fr-fR">
+		<files folder="site/templates/default/language/de-DE" target="component/com_flexicontent/templates/default/language/de-DE">
 			<filename>de-DE.ini</filename>
 		</files>
-		<files folder="site/templates/faq/language/en-GB" target="component/com_flexicontent/templates/faq/language/en-GB">
+		<files folder="site/templates/faq/language/de-DE" target="component/com_flexicontent/templates/faq/language/de-DE">
 			<filename>de-DE.ini</filename>
 		</files>
 		<files folder="site/templates/items-tabbed/language/en-GB" target="component/com_flexicontent/templates/items-tabbed/language/en-GB">
@@ -204,7 +204,7 @@
 		</files>
 		</fileset>
 	<updateservers>
-		<server type="collection" priority="1" name="Official Flexicontent Translations">
+		<server type="collection" priority="1" name="English package for Flexicontent">
 https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/translationlist_flexicontent.xml</server>
 	</updateservers>
 </extension>
