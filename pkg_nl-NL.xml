@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension type="file" version="3.2" method="upgrade">
-	<name>English package for Flexicontent</name>
+	<name>Engels pakket voor Flexicontent</name>
 	<version>3.3.1.2</version>
 	<creationDate/>
 	<author>Flexicontent.org</author>
@@ -12,31 +12,31 @@
 	<packager>flexicontent.org</packager>
 	<packagerurl>http://flexicontent.org</packagerurl>
 	<description><![CDATA[<div style="text-align: left;">
-<h3>Flexicontent! 3.3 English translation (en-GB) Version 3.3]]></description>
+<h3>Flexicontent! 3.3 Engelse vertaling (nl-NL) versie 3.3]]></description>
 	<fileset>
 
 		<!-- Front-end -->
-		<files folder="site/language/en-GB" target="language/nl-NL">
+		<files folder="site/language/nl-NL" target="language/nl-NL">
 			<filename>nl-NL.com_flexicontent.ini</filename>
 		</files>
-		<files folder="site/templates/blog/language/en-GB" target="component/com_flexicontent/templates/blog/language/en-GB">
+		<files folder="site/templates/blog/language/nl-NL" target="component/com_flexicontent/templates/blog/language/nl-NL">
 			<filename>nl-NL.ini</filename>
 		</files>
-		<files folder="site/templates/default/language/en-GB" target="component/com_flexicontent/templates/default/language/fr-fR">
+		<files folder="site/templates/default/language/nl-NL" target="component/com_flexicontent/templates/default/language/nl-NL">
 			<filename>nl-NL.ini</filename>
 		</files>
-		<files folder="site/templates/faq/language/en-GB" target="component/com_flexicontent/templates/faq/language/en-GB">
+		<files folder="site/templates/faq/language/nl-NL" target="component/com_flexicontent/templates/faq/language/nl-NL">
 			<filename>nl-NL.ini</filename>
 		</files>
-		<files folder="site/templates/items-tabbed/language/en-GB" target="component/com_flexicontent/templates/items-tabbed/language/en-GB">
+		<files folder="site/templates/items-tabbed/language/nl-NL" target="component/com_flexicontent/templates/items-tabbed/language/nl-NL">
 			<filename>nl-NL.ini</filename>
 		</files>
-		<files folder="site/templates/presentation/language/en-GB" target="component/com_flexicontent/templates/presentation/language/en-GB">
+		<files folder="site/templates/presentation/language/nl-NL" target="component/com_flexicontent/templates/presentation/language/nl-NL">
 			<filename>nl-NL.ini</filename>
 		</files>
 
 		<!-- Backend-end -->
-		<files folder="admin/language/en-GB" target="administrator/language/nl-NL">
+		<files folder="admin/language/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.com_flexicontent.ini</filename>
 			<filename>nl-NL.com_flexicontent.ini</filename>
 		</files>
@@ -204,7 +204,7 @@
 		</files>
 		</fileset>
 	<updateservers>
-		<server type="collection" priority="1" name="Official Flexicontent Translations">
+		<server type="collection" priority="1" name="English package for Flexicontent">
 https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/translationlist_flexicontent.xml</server>
 	</updateservers>
 </extension>
