@@ -203,7 +203,7 @@
 		</files>
 		</fileset>
 	<updateservers>
-		<server type="crwdns26516:0crwdne26516:0" priority="crwdns26518:0crwdne26518:0" name="crwdns26520:0crwdne26520:0">
+		<server type="crwdns26516:0crwdne26516:0" priority="crwdns26518:0crwdne26518:0" name="crwdns26884:0crwdne26884:0">
 crwdns26522:0crwdne26522:0</server>
 	</updateservers>
 </extension>
