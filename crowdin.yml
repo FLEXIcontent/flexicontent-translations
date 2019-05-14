@@ -3,6 +3,6 @@ api_key: c7157f327965cb5088d62dc5ba5467d5
 base_path: 
 files:
   - source: /**/en-GB/*.ini
-    translation: /%original_path%/%locale%/%locale%.%file_name%.ini
+    translation: /**/%locale%/%locale%.%file_name%.ini
   - source: /pkg_en-GB.xml
     translation: /pkg_%locale%.xml
