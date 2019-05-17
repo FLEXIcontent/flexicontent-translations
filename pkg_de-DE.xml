@@ -193,7 +193,7 @@
 		<files folder="plugins/flexicontent_fields/textarea/en-GB" target="administrator/language/de-DE">
 			<filename>en-GB.plg_flexicontent_fields_textarea.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/textselect/en-GB" target="administrator/language/de-DE">
+		<files folder="plugins/flexicontent_fields/textselect/de-DE" target="administrator/language/de-DE">
 			<filename>en-GB.plg_flexicontent_fields_textselect.ini</filename>
 		</files>
 		<files folder="plugins/flexicontent_fields/toolbar/en-GB" target="administrator/language/de-DE">
