@@ -23,16 +23,16 @@
 			<filename>de-DE.blog.ini</filename>
 		</files>
 		<files folder="site/templates/default/language/de-DE" target="component/com_flexicontent/templates/default/language/de-DE">
-			<filename>en-GB.default.ini</filename>
+			<filename>de-DE.default.ini</filename>
 		</files>
 		<files folder="site/templates/faq/language/de-DE" target="component/com_flexicontent/templates/faq/language/de-DE">
-			<filename>en-GB.faq.ini</filename>
+			<filename>de-DE.faq.ini</filename>
 		</files>
 		<files folder="site/templates/items-tabbed/language/de-DE" target="component/com_flexicontent/templates/items-tabbed/language/de-DE">
-			<filename>en-GB.items-tabbed.ini</filename>
+			<filename>de-DE.items-tabbed.ini</filename>
 		</files>
 		<files folder="site/templates/presentation/language/de-DE" target="component/com_flexicontent/templates/presentation/language/de-DE">
-			<filename>en-GB.presentation.ini</filename>
+			<filename>de-DE.presentation.ini</filename>
 		</files>
 
 		<!-- Backend-end -->
