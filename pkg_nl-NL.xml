@@ -20,19 +20,19 @@
 			<filename>nl-NL.com_flexicontent.ini</filename>
 		</files>
 		<files folder="site/templates/blog/language/nl-NL" target="component/com_flexicontent/templates/blog/language/nl-NL">
-			<filename>nl-NL.ini</filename>
+			<filename>en-GB.blog.ini</filename>
 		</files>
 		<files folder="site/templates/default/language/nl-NL" target="component/com_flexicontent/templates/default/language/nl-NL">
-			<filename>nl-NL.ini</filename>
+			<filename>en-GB.default.ini</filename>
 		</files>
 		<files folder="site/templates/faq/language/nl-NL" target="component/com_flexicontent/templates/faq/language/nl-NL">
-			<filename>nl-NL.ini</filename>
+			<filename>en-GB.faq.ini</filename>
 		</files>
 		<files folder="site/templates/items-tabbed/language/nl-NL" target="component/com_flexicontent/templates/items-tabbed/language/nl-NL">
-			<filename>nl-NL.ini</filename>
+			<filename>en-GB.items-tabbed.ini</filename>
 		</files>
 		<files folder="site/templates/presentation/language/nl-NL" target="component/com_flexicontent/templates/presentation/language/nl-NL">
-			<filename>nl-NL.ini</filename>
+			<filename>en-GB.presentation.ini</filename>
 		</files>
 
 		<!-- Backend-end -->
