@@ -20,19 +20,19 @@
 			<filename>fr-FR.com_flexicontent.ini</filename>
 		</files>
 		<files folder="site/templates/blog/language/fr-FR" target="component/com_flexicontent/templates/blog/language/fr-FR">
-			<filename>en-GB.blog.ini</filename>
+			<filename>fr-FR.blog.ini</filename>
 		</files>
 		<files folder="site/templates/default/language/fr-FR" target="component/com_flexicontent/templates/default/language/fr-fR">
-			<filename>en-GB.default.ini</filename>
+			<filename>fr-FR.default.ini</filename>
 		</files>
 		<files folder="site/templates/faq/language/fr-FR" target="component/com_flexicontent/templates/faq/language/fr-FR">
-			<filename>en-GB.faq.ini</filename>
+			<filename>fr-FR.faq.ini</filename>
 		</files>
 		<files folder="site/templates/items-tabbed/language/fr-FR" target="component/com_flexicontent/templates/items-tabbed/language/fr-FR">
-			<filename>en-GB.items-tabbed.ini</filename>
+			<filename>fr-FR.items-tabbed.ini</filename>
 		</files>
 		<files folder="site/templates/presentation/language/fr-FR" target="component/com_flexicontent/templates/presentation/language/fr-FR">
-			<filename>en-GB.presentation.ini</filename>
+			<filename>fr-FR.presentation.ini</filename>
 		</files>
 
 		<!-- Backend-end -->
@@ -42,27 +42,27 @@
 		</files>
 
 		<!-- Modules -->
-		<files folder="modules/mod_flexiadvsearch/language" target="language/fr-FR">
+		<files folder="modules/mod_flexiadvsearch/language/fr-FR" target="language/fr-FR">
 			<filename>fr-FR.mod_flexiadvsearch.ini</filename>
 			<filename>fr-FR.mod_flexiadvsearch.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexicategories/language" target="language/fr-FR">
+		<files folder="modules/mod_flexicategories/language/fr-FR" target="language/fr-FR">
 			<filename>fr-FR.mod_flexicategories.ini</filename>
 			<filename>fr-FR.mod_flexicategories.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexicontent/language" target="language/fr-FR">
+		<files folder="modules/mod_flexicontent/language/fr-FR" target="language/fr-FR">
 			<filename>fr-FR.mod_flexicontent.ini</filename>
 			<filename>fr-FR.mod_flexicontent.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexifilter/language" target="language/fr-FR">
+		<files folder="modules/mod_flexifilter/language/fr-FR" target="language/fr-FR">
 			<filename>fr-FR.mod_flexifilter.ini</filename>
 			<filename>fr-FR.mod_flexifilter.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexigooglemap/language" target="language/fr-FR">
+		<files folder="modules/mod_flexigooglemap/language/fr-FR" target="language/fr-FR">
 			<filename>fr-FR.mod_flexigooglemap.ini</filename>
 			<filename>fr-FR.mod_flexigooglemap.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexitagcloud/language" target="language/fr-FR">
+		<files folder="modules/mod_flexitagcloud/language/fr-FR" target="language/fr-FR">
 			<filename>fr-FR.mod_flexitagcloud.ini</filename>
 			<filename>fr-FR.mod_flexitagcloud.sys.ini</filename>
 		</files>
