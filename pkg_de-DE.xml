@@ -20,7 +20,7 @@
 			<filename>de-DE.com_flexicontent.ini</filename>
 		</files>
 		<files folder="site/templates/blog/language/de-DE" target="component/com_flexicontent/templates/blog/language/de-DE">
-			<filename>en-GB.blog.ini</filename>
+			<filename>de-DE.blog.ini</filename>
 		</files>
 		<files folder="site/templates/default/language/de-DE" target="component/com_flexicontent/templates/default/language/de-DE">
 			<filename>en-GB.default.ini</filename>
