@@ -42,27 +42,27 @@
 		</files>
 
 		<!-- Modules -->
-		<files folder="modules/mod_flexiadvsearch/language" target="language/en-GB">
+		<files folder="modules/mod_flexiadvsearch/language/en-GB" target="language/en-GB">
 			<filename>en-GB.mod_flexiadvsearch.ini</filename>
 			<filename>en-GB.mod_flexiadvsearch.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexicategories/language" target="language/en-GB">
+		<files folder="modules/mod_flexicategories/language/en-GB" target="language/en-GB">
 			<filename>en-GB.mod_flexicategories.ini</filename>
 			<filename>en-GB.mod_flexicategories.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexicontent/language" target="language/en-GB">
+		<files folder="modules/mod_flexicontent/language/en-GB" target="language/en-GB">
 			<filename>en-GB.mod_flexicontent.ini</filename>
 			<filename>en-GB.mod_flexicontent.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexifilter/language" target="language/en-GB">
+		<files folder="modules/mod_flexifilter/language/en-GB" target="language/en-GB">
 			<filename>en-GB.mod_flexifilter.ini</filename>
 			<filename>en-GB.mod_flexifilter.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexigooglemap/language" target="language/en-GB">
+		<files folder="modules/mod_flexigooglemap/language/en-GB" target="language/en-GB">
 			<filename>en-GB.mod_flexigooglemap.ini</filename>
 			<filename>en-GB.mod_flexigooglemap.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexitagcloud/language" target="language/en-GB">
+		<files folder="modules/mod_flexitagcloud/language/en-GB" target="language/en-GB">
 			<filename>en-GB.mod_flexitagcloud.ini</filename>
 			<filename>en-GB.mod_flexitagcloud.sys.ini</filename>
 		</files>
