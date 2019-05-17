@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension type="archivo" version="3.2" method="upgrade">
-	<name>English package for Flexicontent</name>
+	<name>Spanish package for Flexicontent</name>
 	<version>3.3.1.2</version>
 	<creationDate/>
 	<author>Flexicontent.org</author>
@@ -12,12 +12,12 @@
 	<packager>flexicontent.org</packager>
 	<packagerurl>http://flexicontent.org</packagerurl>
 	<description><![CDATA[<div style="text-align: left;">
-<h3>Flexicontent! 3.3 English translation (en-GB) Version 3.3]]></description>
+<h3>Flexicontent! 3.3 Spanish translation (en-GB) Version 3.3]]></description>
 	<fileset>
 
 		<!-- Front-end -->
-		<files folder="site/language/en-GB" target="language/en-GB">
-			<filename>en-GB.com_flexicontent.ini</filename>
+		<files folder="site/language/es-ES" target="language/es-ES">
+			<filename>es-ES.com_flexicontent.ini</filename>
 		</files>
 		<files folder="site/templates/blog/language/en-GB" target="component/com_flexicontent/templates/blog/language/en-GB">
 			<filename>en-GB.blog.ini</filename>
