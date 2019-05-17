@@ -19,65 +19,65 @@
 		<files folder="site/language/es-ES" target="language/es-ES">
 			<filename>es-ES.com_flexicontent.ini</filename>
 		</files>
-		<files folder="site/templates/blog/language/en-GB" target="component/com_flexicontent/templates/blog/language/en-GB">
-			<filename>en-GB.blog.ini</filename>
+		<files folder="site/templates/blog/language/es-ES" target="component/com_flexicontent/templates/blog/language/es-ES">
+			<filename>es-ES.blog.ini</filename>
 		</files>
-		<files folder="site/templates/default/language/en-GB" target="component/com_flexicontent/templates/default/language/fr-fR">
-			<filename>en-GB.default.ini</filename>
+		<files folder="site/templates/default/language/es-ES" target="component/com_flexicontent/templates/default/language/es-ES">
+			<filename>es-ES.default.ini</filename>
 		</files>
-		<files folder="site/templates/faq/language/en-GB" target="component/com_flexicontent/templates/faq/language/en-GB">
-			<filename>en-GB.faq.ini</filename>
+		<files folder="site/templates/faq/language/es-ES" target="component/com_flexicontent/templates/faq/language/es-ES">
+			<filename>es-ES.faq.ini</filename>
 		</files>
-		<files folder="site/templates/items-tabbed/language/en-GB" target="component/com_flexicontent/templates/items-tabbed/language/en-GB">
-			<filename>en-GB.items-tabbed.ini</filename>
+		<files folder="site/templates/items-tabbed/language/es-ES" target="component/com_flexicontent/templates/items-tabbed/language/es-ES">
+			<filename>es-ES.items-tabbed.ini</filename>
 		</files>
-		<files folder="site/templates/presentation/language/en-GB" target="component/com_flexicontent/templates/presentation/language/en-GB">
-			<filename>en-GB.presentation.ini</filename>
+		<files folder="site/templates/presentation/language/es-ES" target="component/com_flexicontent/templates/presentation/language/es-ES">
+			<filename>es-ES.presentation.ini</filename>
 		</files>
 
 		<!-- Backend-end -->
-		<files folder="admin/language/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.com_flexicontent.ini</filename>
-			<filename>en-GB.com_flexicontent.ini</filename>
+		<files folder="admin/language/es-ES" target="administrator/language/es-ES">
+			<filename>es-ES.com_flexicontent.ini</filename>
+			<filename>es-ES.com_flexicontent.ini</filename>
 		</files>
 
 		<!-- Modules -->
-		<files folder="modules/mod_flexiadvsearch/language/en-GB" target="language/en-GB">
-			<filename>en-GB.mod_flexiadvsearch.ini</filename>
-			<filename>en-GB.mod_flexiadvsearch.sys.ini</filename>
+		<files folder="modules/mod_flexiadvsearch/language/es-ES" target="language/es-ES">
+			<filename>es-ES.mod_flexiadvsearch.ini</filename>
+			<filename>es-ES.mod_flexiadvsearch.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexicategories/language/en-GB" target="language/en-GB">
-			<filename>en-GB.mod_flexicategories.ini</filename>
-			<filename>en-GB.mod_flexicategories.sys.ini</filename>
+		<files folder="modules/mod_flexicategories/language/es-ES" target="language/es-ES">
+			<filename>es-ES.mod_flexicategories.ini</filename>
+			<filename>es-ES.mod_flexicategories.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexicontent/language/en-GB" target="language/en-GB">
-			<filename>en-GB.mod_flexicontent.ini</filename>
-			<filename>en-GB.mod_flexicontent.sys.ini</filename>
+		<files folder="modules/mod_flexicontent/language/es-ES" target="language/es-ES">
+			<filename>es-ES.mod_flexicontent.ini</filename>
+			<filename>es-ES.mod_flexicontent.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexifilter/language/en-GB" target="language/en-GB">
-			<filename>en-GB.mod_flexifilter.ini</filename>
-			<filename>en-GB.mod_flexifilter.sys.ini</filename>
+		<files folder="modules/mod_flexifilter/language/es-ES" target="language/es-ES">
+			<filename>es-ES.mod_flexifilter.ini</filename>
+			<filename>es-ES.mod_flexifilter.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexigooglemap/language/en-GB" target="language/en-GB">
-			<filename>en-GB.mod_flexigooglemap.ini</filename>
-			<filename>en-GB.mod_flexigooglemap.sys.ini</filename>
+		<files folder="modules/mod_flexigooglemap/language/es-ES" target="language/es-ES">
+			<filename>es-ES.mod_flexigooglemap.ini</filename>
+			<filename>es-ES.mod_flexigooglemap.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexitagcloud/language/en-GB" target="language/en-GB">
-			<filename>en-GB.mod_flexitagcloud.ini</filename>
-			<filename>en-GB.mod_flexitagcloud.sys.ini</filename>
+		<files folder="modules/mod_flexitagcloud/language/es-ES" target="language/es-ES">
+			<filename>es-ES.mod_flexitagcloud.ini</filename>
+			<filename>es-ES.mod_flexitagcloud.sys.ini</filename>
 		</files>
 
 		<!-- Plugins system -->
-		<files folder="plugins/content/flexibreak/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_content_flexibreak.ini</filename>
-			<filename>en-GB.plg_content_flexibreak.sys.ini</filename>
+		<files folder="plugins/content/flexibreak/es-ES" target="administrator/language/es-ES">
+			<filename>es-ES.plg_content_flexibreak.ini</filename>
+			<filename>es-ES.plg_content_flexibreak.sys.ini</filename>
 		</files>
-		<files folder="plugins/finder/flexicontent/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_finder_flexicontent.ini</filename>
-			<filename>en-GB.plg_finder_flexicontent.sys.ini</filename>
+		<files folder="plugins/finder/flexicontent/es-ES" target="administrator/language/es-ES">
+			<filename>es-ES.plg_finder_flexicontent.ini</filename>
+			<filename>es-ES.plg_finder_flexicontent.sys.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent/flexinotify/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_flexinotify.ini</filename>
+		<files folder="plugins/flexicontent/flexinotify/es-ES" target="administrator/language/es-ES">
+			<filename>es-ES.plg_flexicontent_flexinotify.ini</filename>
 			<filename>en-GB.plg_flexicontent_flexinotify.sys.ini</filename>
 		</files>
 		<files folder="plugins/osmap/com_flexicontent/en-GB" target="administrator/language/en-GB">
