@@ -22,7 +22,7 @@
 		<files folder="site/templates/blog/language/cs" target="component/com_flexicontent/templates/blog/language/cs">
 			<filename>en-GB.blog.ini</filename>
 		</files>
-		<files folder="site/templates/default/language/cs" target="component/com_flexicontent/templates/default/language/fr-fR">
+		<files folder="site/templates/default/language/cs" target="component/com_flexicontent/templates/default/language/cs">
 			<filename>en-GB.default.ini</filename>
 		</files>
 		<files folder="site/templates/faq/language/cs" target="component/com_flexicontent/templates/faq/language/cs">
@@ -118,88 +118,88 @@
 		<files folder="plugins/flexicontent_fields/color/cs" target="administrator/language/cs">
 			<filename>en-GB.plg_flexicontent_fields_color.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/comments/cs" target="administrator/language/en-GB">
+		<files folder="plugins/flexicontent_fields/comments/cs" target="administrator/language/cs">
 			<filename>en-GB.plg_flexicontent_fields_comments.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/core/en-GB" target="administrator/language/en-GB">
+		<files folder="plugins/flexicontent_fields/core/cs" target="administrator/language/cs">
 			<filename>en-GB.plg_flexicontent_fields_core.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/coreprops/en-GB" target="administrator/language/en-GB">
+		<files folder="plugins/flexicontent_fields/coreprops/cs" target="administrator/language/cs">
 			<filename>en-GB.plg_flexicontent_fields_coreprops.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/date/en-GB" target="administrator/language/en-GB">
+		<files folder="plugins/flexicontent_fields/date/cs" target="administrator/language/cs">
 			<filename>en-GB.plg_flexicontent_fields_date.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/email/en-GB" target="administrator/language/en-GB">
+		<files folder="plugins/flexicontent_fields/email/cs" target="administrator/language/cs">
 			<filename>en-GB.plg_flexicontent_fields_email.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/fcloadmodule/en-GB" target="administrator/language/en-GB">
+		<files folder="plugins/flexicontent_fields/fcloadmodule/cs" target="administrator/language/cs">
 			<filename>en-GB.plg_flexicontent_fields_fcloadmodule.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/fcpagenav/en-GB" target="administrator/language/en-GB">
+		<files folder="plugins/flexicontent_fields/fcpagenav/cs" target="administrator/language/cs">
 			<filename>en-GB.plg_flexicontent_fields_fcpagenav.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/fieldgroup/en-GB" target="administrator/language/en-GB">
+		<files folder="plugins/flexicontent_fields/fieldgroup/cs" target="administrator/language/cs">
 			<filename>en-GB.plg_flexicontent_fields_fieldgroup.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/file/en-GB" target="administrator/language/en-GB">
+		<files folder="plugins/flexicontent_fields/file/cs" target="administrator/language/cs">
 			<filename>en-GB.plg_flexicontent_fields_file.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/groupmarker/en-GB" target="administrator/language/en-GB">
+		<files folder="plugins/flexicontent_fields/groupmarker/cs" target="administrator/language/cs">
 			<filename>en-GB.plg_flexicontent_fields_groupmarker.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/image/en-GB" target="administrator/language/en-GB">
+		<files folder="plugins/flexicontent_fields/image/cs" target="administrator/language/cs">
 			<filename>en-GB.plg_flexicontent_fields_image.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/jprofile/en-GB" target="administrator/language/en-GB">
+		<files folder="plugins/flexicontent_fields/jprofile/cs" target="administrator/language/cs">
 			<filename>en-GB.plg_flexicontent_fields_jprofile.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/linkslist/en-GB" target="administrator/language/en-GB">
+		<files folder="plugins/flexicontent_fields/linkslist/cs" target="administrator/language/cs">
 			<filename>en-GB.plg_flexicontent_fields_linkslist.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/minigallery/en-GB" target="administrator/language/en-GB">
+		<files folder="plugins/flexicontent_fields/minigallery/cs" target="administrator/language/cs">
 			<filename>en-GB.plg_flexicontent_fields_minigallery.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/phonenumbers/en-GB" target="administrator/language/en-GB">
+		<files folder="plugins/flexicontent_fields/phonenumbers/cs" target="administrator/language/cs">
 			<filename>en-GB.plg_flexicontent_fields_phonenumbers.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/radio/en-GB" target="administrator/language/en-GB">
+		<files folder="plugins/flexicontent_fields/radio/cs" target="administrator/language/cs">
 			<filename>en-GB.plg_flexicontent_fields_radio.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/radioimage/en-GB" target="administrator/language/en-GB">
+		<files folder="plugins/flexicontent_fields/radioimage/cs" target="administrator/language/cs">
 			<filename>en-GB.plg_flexicontent_fields_radioimage.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/relation/en-GB" target="administrator/language/en-GB">
+		<files folder="plugins/flexicontent_fields/relation/cs" target="administrator/language/cs">
 			<filename>en-GB.plg_flexicontent_fields_relation.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/relation_reverse/en-GB" target="administrator/language/en-GB">
+		<files folder="plugins/flexicontent_fields/relation_reverse/cs" target="administrator/language/cs">
 			<filename>en-GB.plg_flexicontent_fields_relation_reverse.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/select/en-GB" target="administrator/language/en-GB">
+		<files folder="plugins/flexicontent_fields/select/cs" target="administrator/language/cs">
 			<filename>en-GB.plg_flexicontent_fields_select.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/selectmultiple/en-GB" target="administrator/language/en-GB">
+		<files folder="plugins/flexicontent_fields/selectmultiple/cs" target="administrator/language/cs">
 			<filename>en-GB.plg_flexicontent_fields_selectmultiple.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/sharedmedia/en-GB" target="administrator/language/en-GB">
+		<files folder="plugins/flexicontent_fields/sharedmedia/cs" target="administrator/language/cs">
 			<filename>en-GB.plg_flexicontent_fields_sharedmedia.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/termlist/en-GB" target="administrator/language/en-GB">
+		<files folder="plugins/flexicontent_fields/termlist/cs" target="administrator/language/cs">
 			<filename>en-GB.plg_flexicontent_fields_termlist.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/text/en-GB" target="administrator/language/en-GB">
+		<files folder="plugins/flexicontent_fields/text/cs" target="administrator/language/cs">
 			<filename>en-GB.plg_flexicontent_fields_text.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/textarea/en-GB" target="administrator/language/en-GB">
+		<files folder="plugins/flexicontent_fields/textarea/cs" target="administrator/language/cs">
 			<filename>en-GB.plg_flexicontent_fields_textarea.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/textselect/en-GB" target="administrator/language/en-GB">
+		<files folder="plugins/flexicontent_fields/textselect/cs" target="administrator/language/cs">
 			<filename>en-GB.plg_flexicontent_fields_textselect.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/toolbar/en-GB" target="administrator/language/en-GB">
+		<files folder="plugins/flexicontent_fields/toolbar/cs" target="administrator/language/cs">
 			<filename>en-GB.plg_flexicontent_fields_toolbar.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/weblink/en-GB" target="administrator/language/en-GB">
+		<files folder="plugins/flexicontent_fields/weblink/cs" target="administrator/language/cs">
 			<filename>en-GB.plg_flexicontent_fields_weblink.ini</filename>
 		</files>
 		</fileset>
