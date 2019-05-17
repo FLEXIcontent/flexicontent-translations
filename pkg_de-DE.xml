@@ -109,64 +109,64 @@
 		<files folder="plugins/flexicontent_fields/authoritems/de-DE" target="administrator/language/de-DE">
 			<filename>en-GB.plg_flexicontent_fields_authoritems.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/checkbox/en-GB" target="administrator/language/de-DE">
+		<files folder="plugins/flexicontent_fields/checkbox/de-DE" target="administrator/language/de-DE">
 			<filename>en-GB.plg_flexicontent_fields_checkbox.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/checkboximage/en-GB" target="administrator/language/de-DE">
+		<files folder="plugins/flexicontent_fields/checkboximage/de-DE" target="administrator/language/de-DE">
 			<filename>en-GB.plg_flexicontent_fields_checkboximage.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/color/en-GB" target="administrator/language/de-DE">
+		<files folder="plugins/flexicontent_fields/color/de-DE" target="administrator/language/de-DE">
 			<filename>en-GB.plg_flexicontent_fields_color.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/comments/en-GB" target="administrator/language/de-DE">
+		<files folder="plugins/flexicontent_fields/comments/de-DE" target="administrator/language/de-DE">
 			<filename>en-GB.plg_flexicontent_fields_comments.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/core/en-GB" target="administrator/language/de-DE">
+		<files folder="plugins/flexicontent_fields/core/de-DE" target="administrator/language/de-DE">
 			<filename>en-GB.plg_flexicontent_fields_core.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/coreprops/en-GB" target="administrator/language/de-DE">
+		<files folder="plugins/flexicontent_fields/coreprops/de-DE" target="administrator/language/de-DE">
 			<filename>en-GB.plg_flexicontent_fields_coreprops.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/date/en-GB" target="administrator/language/de-DE">
+		<files folder="plugins/flexicontent_fields/date/de-DE" target="administrator/language/de-DE">
 			<filename>en-GB.plg_flexicontent_fields_date.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/email/en-GB" target="administrator/language/de-DE">
+		<files folder="plugins/flexicontent_fields/email/de-DE" target="administrator/language/de-DE">
 			<filename>en-GB.plg_flexicontent_fields_email.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/fcloadmodule/en-GB" target="administrator/language/de-DE">
+		<files folder="plugins/flexicontent_fields/fcloadmodule/de-DE" target="administrator/language/de-DE">
 			<filename>en-GB.plg_flexicontent_fields_fcloadmodule.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/fcpagenav/en-GB" target="administrator/language/de-DE">
+		<files folder="plugins/flexicontent_fields/fcpagenav/de-DE" target="administrator/language/de-DE">
 			<filename>en-GB.plg_flexicontent_fields_fcpagenav.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/fieldgroup/en-GB" target="administrator/language/de-DE">
+		<files folder="plugins/flexicontent_fields/fieldgroup/de-DE" target="administrator/language/de-DE">
 			<filename>en-GB.plg_flexicontent_fields_fieldgroup.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/file/en-GB" target="administrator/language/de-DE">
+		<files folder="plugins/flexicontent_fields/file/de-DE" target="administrator/language/de-DE">
 			<filename>en-GB.plg_flexicontent_fields_file.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/groupmarker/en-GB" target="administrator/language/de-DE">
+		<files folder="plugins/flexicontent_fields/groupmarker/de-DE" target="administrator/language/de-DE">
 			<filename>en-GB.plg_flexicontent_fields_groupmarker.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/image/en-GB" target="administrator/language/de-DE">
+		<files folder="plugins/flexicontent_fields/image/de-DE" target="administrator/language/de-DE">
 			<filename>en-GB.plg_flexicontent_fields_image.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/jprofile/en-GB" target="administrator/language/de-DE">
+		<files folder="plugins/flexicontent_fields/jprofile/de-DE" target="administrator/language/de-DE">
 			<filename>en-GB.plg_flexicontent_fields_jprofile.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/linkslist/en-GB" target="administrator/language/de-DE">
+		<files folder="plugins/flexicontent_fields/linkslist/de-DE" target="administrator/language/de-DE">
 			<filename>en-GB.plg_flexicontent_fields_linkslist.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/minigallery/en-GB" target="administrator/language/de-DE">
+		<files folder="plugins/flexicontent_fields/minigallery/de-DE" target="administrator/language/de-DE">
 			<filename>en-GB.plg_flexicontent_fields_minigallery.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/phonenumbers/en-GB" target="administrator/language/de-DE">
+		<files folder="plugins/flexicontent_fields/phonenumbers/de-DE" target="administrator/language/de-DE">
 			<filename>en-GB.plg_flexicontent_fields_phonenumbers.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/radio/en-GB" target="administrator/language/de-DE">
+		<files folder="plugins/flexicontent_fields/radio/de-DE" target="administrator/language/de-DE">
 			<filename>en-GB.plg_flexicontent_fields_radio.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/radioimage/en-GB" target="administrator/language/de-DE">
+		<files folder="plugins/flexicontent_fields/radioimage/de-DE" target="administrator/language/de-DE">
 			<filename>en-GB.plg_flexicontent_fields_radioimage.ini</filename>
 		</files>
 		<files folder="plugins/flexicontent_fields/relation/en-GB" target="administrator/language/de-DE">
