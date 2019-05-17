@@ -78,12 +78,12 @@
 		</files>
 		<files folder="plugins/flexicontent/flexinotify/es-ES" target="administrator/language/es-ES">
 			<filename>es-ES.plg_flexicontent_flexinotify.ini</filename>
-			<filename>en-GB.plg_flexicontent_flexinotify.sys.ini</filename>
+			<filename>es-ES.plg_flexicontent_flexinotify.sys.ini</filename>
 		</files>
-		<files folder="plugins/osmap/com_flexicontent/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_osmap_com_flexicontent.ini</filename>
+		<files folder="plugins/osmap/com_flexicontent/es-ES" target="administrator/language/es-ES">
+			<filename>es-ES.plg_osmap_com_flexicontent.ini</filename>
 		</files>
-		<files folder="plugins/search/flexiadvsearch/en-GB" target="administrator/language/en-GB">
+		<files folder="plugins/search/flexiadvsearch/es-ES" target="administrator/language/en-GB">
 			<filename>en-GB.plg_search_flexiadvsearch.ini</filename>
 			<filename>en-GB.plg_search_flexiadvsearch.sys.ini</filename>
 		</files>
