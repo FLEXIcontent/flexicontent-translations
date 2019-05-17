@@ -19,20 +19,20 @@
 		<files folder="site/language/th-TH" target="language/th-TH">
 			<filename>th-TH.com_flexicontent.ini</filename>
 		</files>
-		<files folder="site/templates/blog/language/th-TH" target="component/com_flexicontent/templates/blog/language/en-GB">
-			<filename>en-GB.blog.ini</filename>
+		<files folder="site/templates/blog/language/th-TH" target="component/com_flexicontent/templates/blog/language/th-TH">
+			<filename>th-TH.blog.ini</filename>
 		</files>
-		<files folder="site/templates/default/language/th-TH" target="component/com_flexicontent/templates/default/language/fr-fR">
-			<filename>en-GB.default.ini</filename>
+		<files folder="site/templates/default/language/th-TH" target="component/com_flexicontent/templates/default/language/th-TH">
+			<filename>th-TH.default.ini</filename>
 		</files>
-		<files folder="site/templates/faq/language/th-TH" target="component/com_flexicontent/templates/faq/language/en-GB">
-			<filename>en-GB.faq.ini</filename>
+		<files folder="site/templates/faq/language/th-TH" target="component/com_flexicontent/templates/faq/language/th-TH">
+			<filename>th-TH.faq.ini</filename>
 		</files>
-		<files folder="site/templates/items-tabbed/language/th-TH" target="component/com_flexicontent/templates/items-tabbed/language/en-GB">
-			<filename>en-GB.items-tabbed.ini</filename>
+		<files folder="site/templates/items-tabbed/language/th-TH" target="component/com_flexicontent/templates/items-tabbed/language/th-TH">
+			<filename>th-TH.items-tabbed.ini</filename>
 		</files>
-		<files folder="site/templates/presentation/language/th-TH" target="component/com_flexicontent/templates/presentation/language/en-GB">
-			<filename>en-GB.presentation.ini</filename>
+		<files folder="site/templates/presentation/language/th-TH" target="component/com_flexicontent/templates/presentation/language/th-TH">
+			<filename>th-TH.presentation.ini</filename>
 		</files>
 
 		<!-- Backend-end -->
@@ -42,48 +42,48 @@
 		</files>
 
 		<!-- Modules -->
-		<files folder="modules/mod_flexiadvsearch/language/en-GB" target="language/th-TH">
+		<files folder="modules/mod_flexiadvsearch/language/th-TH" target="language/th-TH">
 			<filename>th-TH.mod_flexiadvsearch.ini</filename>
 			<filename>th-TH.mod_flexiadvsearch.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexicategories/language/en-GB" target="language/th-TH">
+		<files folder="modules/mod_flexicategories/language/th-TH" target="language/th-TH">
 			<filename>th-TH.mod_flexicategories.ini</filename>
 			<filename>th-TH.mod_flexicategories.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexicontent/language/en-GB" target="language/th-TH">
+		<files folder="modules/mod_flexicontent/language/th-TH" target="language/th-TH">
 			<filename>th-TH.mod_flexicontent.ini</filename>
 			<filename>th-TH.mod_flexicontent.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexifilter/language/en-GB" target="language/th-TH">
+		<files folder="modules/mod_flexifilter/language/th-TH" target="language/th-TH">
 			<filename>th-TH.mod_flexifilter.ini</filename>
 			<filename>th-TH.mod_flexifilter.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexigooglemap/language/en-GB" target="language/th-TH">
+		<files folder="modules/mod_flexigooglemap/language/th-TH" target="language/th-TH">
 			<filename>th-TH.mod_flexigooglemap.ini</filename>
 			<filename>th-TH.mod_flexigooglemap.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexitagcloud/language/en-GB" target="language/th-TH">
+		<files folder="modules/mod_flexitagcloud/language/th-TH" target="language/th-TH">
 			<filename>th-TH.mod_flexitagcloud.ini</filename>
 			<filename>th-TH.mod_flexitagcloud.sys.ini</filename>
 		</files>
 
 		<!-- Plugins system -->
-		<files folder="plugins/content/flexibreak/en-GB" target="administrator/language/th-TH">
+		<files folder="plugins/content/flexibreak/th-TH" target="administrator/language/th-TH">
 			<filename>th-TH.plg_content_flexibreak.ini</filename>
 			<filename>th-TH.plg_content_flexibreak.sys.ini</filename>
 		</files>
-		<files folder="plugins/finder/flexicontent/en-GB" target="administrator/language/th-TH">
+		<files folder="plugins/finder/flexicontent/th-TH" target="administrator/language/th-TH">
 			<filename>th-TH.plg_finder_flexicontent.ini</filename>
 			<filename>th-TH.plg_finder_flexicontent.sys.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent/flexinotify/en-GB" target="administrator/language/th-TH">
+		<files folder="plugins/flexicontent/flexinotify/th-TH" target="administrator/language/th-TH">
 			<filename>th-TH.plg_flexicontent_flexinotify.ini</filename>
 			<filename>th-TH.plg_flexicontent_flexinotify.sys.ini</filename>
 		</files>
-		<files folder="plugins/osmap/com_flexicontent/en-GB" target="administrator/language/th-TH">
+		<files folder="plugins/osmap/com_flexicontent/th-TH" target="administrator/language/th-TH">
 			<filename>th-TH.plg_osmap_com_flexicontent.ini</filename>
 		</files>
-		<files folder="plugins/search/flexiadvsearch/en-GB" target="administrator/language/th-TH">
+		<files folder="plugins/search/flexiadvsearch/th-TH" target="administrator/language/th-TH">
 			<filename>th-TH.plg_search_flexiadvsearch.ini</filename>
 			<filename>th-TH.plg_search_flexiadvsearch.sys.ini</filename>
 		</files>
