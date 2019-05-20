@@ -175,31 +175,31 @@
 		<files folder="plugins/flexicontent_fields/relation_reverse/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_relation_reverse.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/select/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent_fields/select/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_select.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/selectmultiple/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent_fields/selectmultiple/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_selectmultiple.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/sharedmedia/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent_fields/sharedmedia/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_sharedmedia.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/termlist/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent_fields/termlist/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_termlist.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/text/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent_fields/text/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_text.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/textarea/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent_fields/textarea/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_textarea.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/textselect/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent_fields/textselect/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_textselect.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/toolbar/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent_fields/toolbar/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_toolbar.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/weblink/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent_fields/weblink/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_weblink.ini</filename>
 		</files>
 		</fileset>
