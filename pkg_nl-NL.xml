@@ -20,19 +20,19 @@
 			<filename>nl-NL.com_flexicontent.ini</filename>
 		</files>
 		<files folder="site/templates/blog/language/nl-NL" target="component/com_flexicontent/templates/blog/language/nl-NL">
-			<filename>en-GB.blog.ini</filename>
+			<filename>nl-NL.blog.ini</filename>
 		</files>
 		<files folder="site/templates/default/language/nl-NL" target="component/com_flexicontent/templates/default/language/nl-NL">
-			<filename>en-GB.default.ini</filename>
+			<filename>nl-NL.default.ini</filename>
 		</files>
 		<files folder="site/templates/faq/language/nl-NL" target="component/com_flexicontent/templates/faq/language/nl-NL">
-			<filename>en-GB.faq.ini</filename>
+			<filename>nl-NL.faq.ini</filename>
 		</files>
 		<files folder="site/templates/items-tabbed/language/nl-NL" target="component/com_flexicontent/templates/items-tabbed/language/nl-NL">
-			<filename>en-GB.items-tabbed.ini</filename>
+			<filename>nl-NL.items-tabbed.ini</filename>
 		</files>
 		<files folder="site/templates/presentation/language/nl-NL" target="component/com_flexicontent/templates/presentation/language/nl-NL">
-			<filename>en-GB.presentation.ini</filename>
+			<filename>nl-NL.presentation.ini</filename>
 		</files>
 
 		<!-- Backend-end -->
@@ -42,137 +42,137 @@
 		</files>
 
 		<!-- Modules -->
-		<files folder="modules/mod_flexiadvsearch/language/en-GB" target="language/nl-NL">
+		<files folder="modules/mod_flexiadvsearch/language/nl-NL" target="language/nl-NL">
 			<filename>nl-NL.mod_flexiadvsearch.ini</filename>
 			<filename>nl-NL.mod_flexiadvsearch.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexicategories/language/en-GB" target="language/nl-NL">
+		<files folder="modules/mod_flexicategories/language/nl-NL" target="language/nl-NL">
 			<filename>nl-NL.mod_flexicategories.ini</filename>
 			<filename>nl-NL.mod_flexicategories.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexicontent/language/en-GB" target="language/nl-NL">
+		<files folder="modules/mod_flexicontent/language/nl-NL" target="language/nl-NL">
 			<filename>nl-NL.mod_flexicontent.ini</filename>
 			<filename>nl-NL.mod_flexicontent.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexifilter/language/en-GB" target="language/nl-NL">
+		<files folder="modules/mod_flexifilter/language/nl-NL" target="language/nl-NL">
 			<filename>nl-NL.mod_flexifilter.ini</filename>
 			<filename>nl-NL.mod_flexifilter.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexigooglemap/language/en-GB" target="language/nl-NL">
+		<files folder="modules/mod_flexigooglemap/language/nl-NL" target="language/nl-NL">
 			<filename>nl-NL.mod_flexigooglemap.ini</filename>
 			<filename>nl-NL.mod_flexigooglemap.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexitagcloud/language/en-GB" target="language/nl-NL">
+		<files folder="modules/mod_flexitagcloud/language/nl-NL" target="language/nl-NL">
 			<filename>nl-NL.mod_flexitagcloud.ini</filename>
 			<filename>nl-NL.mod_flexitagcloud.sys.ini</filename>
 		</files>
 
 		<!-- Plugins system -->
-		<files folder="plugins/content/flexibreak/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/content/flexibreak/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_content_flexibreak.ini</filename>
 			<filename>nl-NL.plg_content_flexibreak.sys.ini</filename>
 		</files>
-		<files folder="plugins/finder/flexicontent/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/finder/flexicontent/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_finder_flexicontent.ini</filename>
 			<filename>nl-NL.plg_finder_flexicontent.sys.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent/flexinotify/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent/flexinotify/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_flexinotify.ini</filename>
 			<filename>nl-NL.plg_flexicontent_flexinotify.sys.ini</filename>
 		</files>
-		<files folder="plugins/osmap/com_flexicontent/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/osmap/com_flexicontent/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_osmap_com_flexicontent.ini</filename>
 		</files>
-		<files folder="plugins/search/flexiadvsearch/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/search/flexiadvsearch/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_search_flexiadvsearch.ini</filename>
 			<filename>nl-NL.plg_search_flexiadvsearch.sys.ini</filename>
 		</files>
-		<files folder="plugins/search/flexisearch/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/search/flexisearch/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_search_flexisearch.ini</filename>
 			<filename>nl-NL.plg_search_flexisearch.sys.ini</filename>
 		</files>
-		<files folder="plugins/system/flexiadvroute/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/system/flexiadvroute/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_system_flexiadvroute.ini</filename>
 		</files>
-		<files folder="plugins/system/flexisystem/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/system/flexisystem/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_system_flexisystem.ini</filename>
 			<filename>nl-NL.plg_system_flexisystem_common_be.ini</filename>
 		</files>
 
 		<!-- Plugins flexicontent -->
-		<files folder="plugins/flexicontent_fields/account_via_submit/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent_fields/account_via_submit/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_account_via_submit.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/addressint/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent_fields/addressint/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_addressint.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/authoritems/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent_fields/authoritems/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_authoritems.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/checkbox/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent_fields/checkbox/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_checkbox.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/checkboximage/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent_fields/checkboximage/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_checkboximage.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/color/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent_fields/color/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_color.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/comments/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent_fields/comments/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_comments.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/core/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent_fields/core/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_core.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/coreprops/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent_fields/coreprops/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_coreprops.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/date/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent_fields/date/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_date.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/email/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent_fields/email/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_email.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/fcloadmodule/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent_fields/fcloadmodule/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_fcloadmodule.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/fcpagenav/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent_fields/fcpagenav/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_fcpagenav.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/fieldgroup/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent_fields/fieldgroup/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_fieldgroup.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/file/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent_fields/file/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_file.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/groupmarker/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent_fields/groupmarker/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_groupmarker.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/image/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent_fields/image/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_image.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/jprofile/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent_fields/jprofile/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_jprofile.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/linkslist/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent_fields/linkslist/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_linkslist.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/minigallery/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent_fields/minigallery/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_minigallery.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/phonenumbers/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent_fields/phonenumbers/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_phonenumbers.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/radio/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent_fields/radio/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_radio.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/radioimage/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent_fields/radioimage/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_radioimage.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/relation/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent_fields/relation/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_relation.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/relation_reverse/en-GB" target="administrator/language/nl-NL">
+		<files folder="plugins/flexicontent_fields/relation_reverse/nl-NL" target="administrator/language/nl-NL">
 			<filename>nl-NL.plg_flexicontent_fields_relation_reverse.ini</filename>
 		</files>
 		<files folder="plugins/flexicontent_fields/select/en-GB" target="administrator/language/nl-NL">
