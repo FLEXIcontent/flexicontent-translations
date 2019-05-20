@@ -7,12 +7,28 @@ from glob import iglob
 from shutil import copy2
  
 ##############################################################################
-def sauveselect(repsrce, repdest, motifs=['*'], affiche=False):
+def modifini(fichier, entete="en-GB."):
+    """modifie le nom du fichier en retirant l'en-tête indiqué
+    """
+    # sépare le chemin et le nom de fichier
+    chemin, nom = os.path.split(fichier)
+    # calcule le nouveau nom
+    if nom.startswith(entete):
+        # modifie le nom
+        nom = nom[len(entete):] # supprime l'en-tête
+        # recalcule le nouveau nom du fichier avec son chemin   
+        fichier = os.path.join(chemin, nom)
+    # et retourne le nom (modifié ou pas) du fichier avec son chemin
+    return fichier
+ 
+##############################################################################
+def sauveselect(repsrce, repdest, motifs=['*'], modifie=None, affiche=False):
     """Trouve (recherche récursive) les fichiers du répertoire source repsrce 
        satisfaisant l'un des motifs 'wildcard' de la liste motifs,
        et les recopie dans le répertoire destination 'repdest' seulement si:
        - le fichier source n'existe pas dans la destination,
        - ou le fichier source est plus récent que le fichier destination
+       Si modifie=unefonction, modifie le fichier en appelant unefonction(...)
        Si affiche=True: affiche les opérations faites en console
        Retourne le nombre de fichiers trouvés + copiés, ainsi que les erreurs
     """
@@ -31,6 +47,10 @@ def sauveselect(repsrce, repdest, motifs=['*'], affiche=False):
  
                 nsrce += 1 # nouveau fichier source trouvé
                 ficdest = repdest + ficsrce[lgrepsrce:] # => fichier destination
+ 
+                # modifie le nom de fichier destination si c'est demandé
+                if modifie is not None:
+                    ficdest = modifie(ficdest)
  
                 rep = os.path.dirname(ficdest) # répertoire du fichier destination
                 if not os.path.exists(rep):
@@ -57,7 +77,6 @@ def sauveselect(repsrce, repdest, motifs=['*'], affiche=False):
                             erreurs.append(str(msgerr))    
  
     return nsrce, ndest, erreurs
-
 # répertoire source
 repsrce = r"C:\Users\yannick\Documents\GitHub\flexicontent-cck"
  
@@ -68,7 +87,7 @@ repdest = r"C:\Users\yannick\Documents\GitHub\flexicontent-translations"
 motifs = ["*.ini"]
  
 # appel de la sauvegarde sélective
-nsrce, ndest, erreurs = sauveselect(repsrce, repdest, motifs, affiche=True)    
+nsrce, ndest, erreurs = sauveselect(repsrce, repdest, motifs, modifie=modifini, affiche=True)
  
 print("nombre de fichiers trouvés:", nsrce)
 print("nombre de fichiers mis à jour", ndest)
