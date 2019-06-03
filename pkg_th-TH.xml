@@ -19,19 +19,19 @@
 		<files folder="site/language/th-TH" target="language/th-TH">
 			<filename>th-TH.com_flexicontent.ini</filename>
 		</files>
-		<files folder="site/templates/blog/language/th-TH" target="component/com_flexicontent/templates/blog/language/th-TH">
+		<files folder="site/templates/blog/language/th-TH" target="components/com_flexicontent/templates/blog/language/en-GB">
 			<filename>th-TH.blog.ini</filename>
 		</files>
-		<files folder="site/templates/default/language/th-TH" target="component/com_flexicontent/templates/default/language/th-TH">
+		<files folder="site/templates/default/language/th-TH" target="components/com_flexicontent/templates/default/language/fr-fR">
 			<filename>th-TH.default.ini</filename>
 		</files>
-		<files folder="site/templates/faq/language/th-TH" target="component/com_flexicontent/templates/faq/language/th-TH">
+		<files folder="site/templates/faq/language/th-TH" target="components/com_flexicontent/templates/faq/language/en-GB">
 			<filename>th-TH.faq.ini</filename>
 		</files>
-		<files folder="site/templates/items-tabbed/language/th-TH" target="component/com_flexicontent/templates/items-tabbed/language/th-TH">
+		<files folder="site/templates/items-tabbed/language/th-TH" target="components/com_flexicontent/templates/items-tabbed/language/en-GB">
 			<filename>th-TH.items-tabbed.ini</filename>
 		</files>
-		<files folder="site/templates/presentation/language/th-TH" target="component/com_flexicontent/templates/presentation/language/th-TH">
+		<files folder="site/templates/presentation/language/th-TH" target="components/com_flexicontent/templates/presentation/language/en-GB">
 			<filename>th-TH.presentation.ini</filename>
 		</files>
 
