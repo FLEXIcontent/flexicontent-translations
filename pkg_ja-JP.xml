@@ -19,19 +19,19 @@
 		<files folder="site/language/ja-JP" target="language/ja-JP">
 			<filename>ja-JP.com_flexicontent.ini</filename>
 		</files>
-		<files folder="site/templates/blog/language/ja-JP" target="components/com_flexicontent/templates/blog/language/en-GB">
+		<files folder="site/templates/blog/language/ja-JP" target="components/com_flexicontent/templates/blog/language/ja-JP">
 			<filename>ja-JP.blog.ini</filename>
 		</files>
-		<files folder="site/templates/default/language/ja-JP" target="components/com_flexicontent/templates/default/language/fr-fR">
+		<files folder="site/templates/default/language/ja-JP" target="components/com_flexicontent/templates/default/language/ja-JP">
 			<filename>ja-JP.default.ini</filename>
 		</files>
-		<files folder="site/templates/faq/language/ja-JP" target="components/com_flexicontent/templates/faq/language/en-GB">
+		<files folder="site/templates/faq/language/ja-JP" target="components/com_flexicontent/templates/faq/language/ja-JP">
 			<filename>ja-JP.faq.ini</filename>
 		</files>
-		<files folder="site/templates/items-tabbed/language/ja-JP" target="components/com_flexicontent/templates/items-tabbed/language/en-GB">
+		<files folder="site/templates/items-tabbed/language/ja-JP" target="components/com_flexicontent/templates/items-tabbed/language/ja-JP">
 			<filename>ja-JP.items-tabbed.ini</filename>
 		</files>
-		<files folder="site/templates/presentation/language/ja-JP" target="components/com_flexicontent/templates/presentation/language/en-GB">
+		<files folder="site/templates/presentation/language/ja-JP" target="components/com_flexicontent/templates/presentation/language/ja-JP">
 			<filename>ja-JP.presentation.ini</filename>
 		</files>
 
