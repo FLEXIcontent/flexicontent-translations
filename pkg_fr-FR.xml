@@ -19,19 +19,19 @@
 		<files folder="site/language/fr-FR" target="language/fr-FR">
 			<filename>fr-FR.com_flexicontent.ini</filename>
 		</files>
-		<files folder="site/templates/blog/language/fr-FR" target="component/com_flexicontent/templates/blog/language/fr-FR">
+		<files folder="site/templates/blog/language/fr-FR" target="components/com_flexicontent/templates/blog/language/fr-FR">
 			<filename>fr-FR.blog.ini</filename>
 		</files>
-		<files folder="site/templates/default/language/fr-FR" target="component/com_flexicontent/templates/default/language/fr-fR">
+		<files folder="site/templates/default/language/fr-FR" target="components/com_flexicontent/templates/default/language/fr-FR">
 			<filename>fr-FR.default.ini</filename>
 		</files>
-		<files folder="site/templates/faq/language/fr-FR" target="component/com_flexicontent/templates/faq/language/fr-FR">
+		<files folder="site/templates/faq/language/fr-FR" target="components/com_flexicontent/templates/faq/language/fr-FR">
 			<filename>fr-FR.faq.ini</filename>
 		</files>
-		<files folder="site/templates/items-tabbed/language/fr-FR" target="component/com_flexicontent/templates/items-tabbed/language/fr-FR">
+		<files folder="site/templates/items-tabbed/language/fr-FR" target="components/com_flexicontent/templates/items-tabbed/language/fr-FR">
 			<filename>fr-FR.items-tabbed.ini</filename>
 		</files>
-		<files folder="site/templates/presentation/language/fr-FR" target="component/com_flexicontent/templates/presentation/language/fr-FR">
+		<files folder="site/templates/presentation/language/fr-FR" target="components/com_flexicontent/templates/presentation/language/fr-FR">
 			<filename>fr-FR.presentation.ini</filename>
 		</files>
 
