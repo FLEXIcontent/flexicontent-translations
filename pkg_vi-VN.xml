@@ -19,19 +19,19 @@
 		<files folder="site/language/vi-VN" target="language/vi-VN">
 			<filename>vi-VN.com_flexicontent.ini</filename>
 		</files>
-		<files folder="site/templates/blog/language/vi-VN" target="component/com_flexicontent/templates/blog/language/vi-VN">
+		<files folder="site/templates/blog/language/vi-VN" target="components/com_flexicontent/templates/blog/language/en-GB">
 			<filename>vi-VN.blog.ini</filename>
 		</files>
-		<files folder="site/templates/default/language/vi-VN" target="component/com_flexicontent/templates/default/language/fr-fR">
+		<files folder="site/templates/default/language/vi-VN" target="components/com_flexicontent/templates/default/language/fr-fR">
 			<filename>vi-VN.default.ini</filename>
 		</files>
-		<files folder="site/templates/faq/language/vi-VN" target="component/com_flexicontent/templates/faq/language/vi-VN">
+		<files folder="site/templates/faq/language/vi-VN" target="components/com_flexicontent/templates/faq/language/en-GB">
 			<filename>vi-VN.faq.ini</filename>
 		</files>
-		<files folder="site/templates/items-tabbed/language/vi-VN" target="component/com_flexicontent/templates/items-tabbed/language/vi-VN">
+		<files folder="site/templates/items-tabbed/language/vi-VN" target="components/com_flexicontent/templates/items-tabbed/language/en-GB">
 			<filename>vi-VN.items-tabbed.ini</filename>
 		</files>
-		<files folder="site/templates/presentation/language/vi-VN" target="component/com_flexicontent/templates/presentation/language/vi-VN">
+		<files folder="site/templates/presentation/language/vi-VN" target="components/com_flexicontent/templates/presentation/language/en-GB">
 			<filename>vi-VN.presentation.ini</filename>
 		</files>
 
