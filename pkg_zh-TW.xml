@@ -19,19 +19,19 @@
 		<files folder="site/language/zh-TW" target="language/zh-TW">
 			<filename>zh-TW.com_flexicontent.ini</filename>
 		</files>
-		<files folder="site/templates/blog/language/zh-TW" target="component/com_flexicontent/templates/blog/language/zh-TW">
+		<files folder="site/templates/blog/language/zh-TW" target="components/com_flexicontent/templates/blog/language/zh-TW">
 			<filename>zh-TW.blog.ini</filename>
 		</files>
-		<files folder="site/templates/default/language/zh-TW" target="component/com_flexicontent/templates/default/language/zh-TW">
+		<files folder="site/templates/default/language/zh-TW" target="components/com_flexicontent/templates/default/language/zh-TW">
 			<filename>zh-TW.default.ini</filename>
 		</files>
-		<files folder="site/templates/faq/language/zh-TW" target="component/com_flexicontent/templates/faq/language/zh-TW">
+		<files folder="site/templates/faq/language/zh-TW" target="components/com_flexicontent/templates/faq/language/zh-TW">
 			<filename>zh-TW.faq.ini</filename>
 		</files>
-		<files folder="site/templates/items-tabbed/language/zh-TW" target="component/com_flexicontent/templates/items-tabbed/language/zh-TW">
+		<files folder="site/templates/items-tabbed/language/zh-TW" target="components/com_flexicontent/templates/items-tabbed/language/zh-TW">
 			<filename>zh-TW.items-tabbed.ini</filename>
 		</files>
-		<files folder="site/templates/presentation/language/zh-TW" target="component/com_flexicontent/templates/presentation/language/zh-TW">
+		<files folder="site/templates/presentation/language/zh-TW" target="components/com_flexicontent/templates/presentation/language/zh-TW">
 			<filename>zh-TW.presentation.ini</filename>
 		</files>
 
