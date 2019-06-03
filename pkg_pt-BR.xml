@@ -19,19 +19,19 @@
 		<files folder="site/language/pt-BR" target="language/pt-BR">
 			<filename>pt-BR.com_flexicontent.ini</filename>
 		</files>
-		<files folder="site/templates/blog/language/pt-BR" target="components/com_flexicontent/templates/blog/language/en-GB">
+		<files folder="site/templates/blog/language/pt-BR" target="components/com_flexicontent/templates/blog/language/pt-BR">
 			<filename>pt-BR.blog.ini</filename>
 		</files>
-		<files folder="site/templates/default/language/pt-BR" target="components/com_flexicontent/templates/default/language/fr-fR">
+		<files folder="site/templates/default/language/pt-BR" target="components/com_flexicontent/templates/default/language/pt-BR">
 			<filename>pt-BR.default.ini</filename>
 		</files>
-		<files folder="site/templates/faq/language/pt-BR" target="components/com_flexicontent/templates/faq/language/en-GB">
+		<files folder="site/templates/faq/language/pt-BR" target="components/com_flexicontent/templates/faq/language/pt-BR">
 			<filename>pt-BR.faq.ini</filename>
 		</files>
-		<files folder="site/templates/items-tabbed/language/pt-BR" target="components/com_flexicontent/templates/items-tabbed/language/en-GB">
+		<files folder="site/templates/items-tabbed/language/pt-BR" target="components/com_flexicontent/templates/items-tabbed/language/pt-BR">
 			<filename>pt-BR.items-tabbed.ini</filename>
 		</files>
-		<files folder="site/templates/presentation/language/pt-BR" target="components/com_flexicontent/templates/presentation/language/en-GB">
+		<files folder="site/templates/presentation/language/pt-BR" target="components/com_flexicontent/templates/presentation/language/pt-BR">
 			<filename>pt-BR.presentation.ini</filename>
 		</files>
 
