@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension type="archivo" version="3.2" method="upgrade">
-	<name>Spanish package for Flexicontent</name>
+	<name>Paquete de Español para Flexicontent</name>
 	<version>3.3.1.2</version>
 	<creationDate/>
 	<author>Flexicontent.org</author>
@@ -12,26 +12,26 @@
 	<packager>flexicontent.org</packager>
 	<packagerurl>http://flexicontent.org</packagerurl>
 	<description><![CDATA[<div style="text-align: left;">
-<h3>Flexicontent! 3.3 Spanish translation (es-ES) Version 3.3]]></description>
+<h3>¡Flexicontent! 3.3 Spanish translation (es-ES) Version 3.3]]></description>
 	<fileset>
 
 		<!-- Front-end -->
 		<files folder="site/language/es-ES" target="language/es-ES">
 			<filename>es-ES.com_flexicontent.ini</filename>
 		</files>
-		<files folder="site/templates/blog/language/es-ES" target="components/com_flexicontent/templates/blog/language/en-GB">
+		<files folder="site/templates/blog/language/es-ES" target="components/com_flexicontent/templates/blog/language/es-ES">
 			<filename>es-ES.blog.ini</filename>
 		</files>
-		<files folder="site/templates/default/language/es-ES" target="components/com_flexicontent/templates/default/language/fr-fR">
+		<files folder="site/templates/default/language/es-ES" target="components/com_flexicontent/templates/default/language/es-Es">
 			<filename>es-ES.default.ini</filename>
 		</files>
-		<files folder="site/templates/faq/language/es-ES" target="components/com_flexicontent/templates/faq/language/en-GB">
+		<files folder="site/templates/faq/language/es-ES" target="components/com_flexicontent/templates/faq/language/es-ES">
 			<filename>es-ES.faq.ini</filename>
 		</files>
-		<files folder="site/templates/items-tabbed/language/es-ES" target="components/com_flexicontent/templates/items-tabbed/language/en-GB">
+		<files folder="site/templates/items-tabbed/language/es-ES" target="components/com_flexicontent/templates/items-tabbed/language/es-ES">
 			<filename>es-ES.items-tabbed.ini</filename>
 		</files>
-		<files folder="site/templates/presentation/language/es-ES" target="components/com_flexicontent/templates/presentation/language/en-GB">
+		<files folder="site/templates/presentation/language/es-ES" target="components/com_flexicontent/templates/presentation/language/es-ES">
 			<filename>es-ES.presentation.ini</filename>
 		</files>
 
@@ -83,49 +83,49 @@
 		<files folder="plugins/osmap/com_flexicontent/es-ES" target="administrator/language/es-ES">
 			<filename>es-ES.plg_osmap_com_flexicontent.ini</filename>
 		</files>
-		<files folder="plugins/search/flexiadvsearch/es-ES" target="administrator/language/en-GB">
-			<filename>en-GB.plg_search_flexiadvsearch.ini</filename>
-			<filename>en-GB.plg_search_flexiadvsearch.sys.ini</filename>
+		<files folder="plugins/search/flexiadvsearch/es-ES" target="administrator/language/es-ES">
+			<filename>es-ES.plg_search_flexiadvsearch.ini</filename>
+			<filename>es-ES.plg_search_flexiadvsearch.sys.ini</filename>
 		</files>
-		<files folder="plugins/search/flexisearch/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_search_flexisearch.ini</filename>
-			<filename>en-GB.plg_search_flexisearch.sys.ini</filename>
+		<files folder="plugins/search/flexisearch/es-ES" target="administrator/language/es-ES">
+			<filename>es-ES.plg_search_flexisearch.ini</filename>
+			<filename>es-ES.plg_search_flexisearch.sys.ini</filename>
 		</files>
-		<files folder="plugins/system/flexiadvroute/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_system_flexiadvroute.ini</filename>
+		<files folder="plugins/system/flexiadvroute/es-ES" target="administrator/language/es-ES">
+			<filename>es-ES.plg_system_flexiadvroute.ini</filename>
 		</files>
-		<files folder="plugins/system/flexisystem/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_system_flexisystem.ini</filename>
-			<filename>en-GB.plg_system_flexisystem_common_be.ini</filename>
+		<files folder="plugins/system/flexisystem/es-ES" target="administrator/language/es-ES">
+			<filename>es-ES.plg_system_flexisystem.ini</filename>
+			<filename>es-ES.plg_system_flexisystem_common_be.ini</filename>
 		</files>
 
 		<!-- Plugins flexicontent -->
-		<files folder="plugins/flexicontent_fields/account_via_submit/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_account_via_submit.ini</filename>
+		<files folder="plugins/flexicontent_fields/account_via_submit/es-ES" target="administrator/language/es-ES">
+			<filename>es-ES.plg_flexicontent_fields_account_via_submit.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/addressint/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_addressint.ini</filename>
+		<files folder="plugins/flexicontent_fields/addressint/es-ES" target="administrator/language/es-ES">
+			<filename>es-ES.plg_flexicontent_fields_addressint.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/authoritems/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_authoritems.ini</filename>
+		<files folder="plugins/flexicontent_fields/authoritems/es-ES" target="administrator/language/es-ES">
+			<filename>es-ES.plg_flexicontent_fields_authoritems.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/checkbox/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_checkbox.ini</filename>
+		<files folder="plugins/flexicontent_fields/checkbox/es-ES" target="administrator/language/es-ES">
+			<filename>es-ES.plg_flexicontent_fields_checkbox.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/checkboximage/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_checkboximage.ini</filename>
+		<files folder="plugins/flexicontent_fields/checkboximage/es-ES" target="administrator/language/es-ES">
+			<filename>es-ES.plg_flexicontent_fields_checkboximage.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/color/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_color.ini</filename>
+		<files folder="plugins/flexicontent_fields/color/es-ES" target="administrator/language/es-ES">
+			<filename>es-ES.plg_flexicontent_fields_color.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/comments/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_comments.ini</filename>
+		<files folder="plugins/flexicontent_fields/comments/es-ES" target="administrator/language/es-ES">
+			<filename>es-ES.plg_flexicontent_fields_comments.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/core/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_core.ini</filename>
+		<files folder="plugins/flexicontent_fields/core/es-ES" target="administrator/language/es-ES">
+			<filename>es-ES.plg_flexicontent_fields_core.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/coreprops/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_coreprops.ini</filename>
+		<files folder="plugins/flexicontent_fields/coreprops/es-ES" target="administrator/language/es-ES">
+			<filename>es-ES.plg_flexicontent_fields_coreprops.ini</filename>
 		</files>
 		<files folder="plugins/flexicontent_fields/date/en-GB" target="administrator/language/en-GB">
 			<filename>en-GB.plg_flexicontent_fields_date.ini</filename>
