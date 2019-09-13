@@ -204,7 +204,7 @@
 		</files>
 		</fileset>
 	<updateservers>
-		<server type="collection" priority="1" name="English package for Flexicontent">
+		<server type="collection" priority="1" name="Pacote em português para Flexicontent">
 https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/translationlist_flexicontent.xml</server>
 	</updateservers>
 </extension>
