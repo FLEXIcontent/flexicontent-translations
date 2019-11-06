@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<extension type="ファイル" version="3.2" method="upgrade">
-	<name>English package for Flexicontent</name>
+<extension type="file" version="3.2" method="upgrade">
+	<name>Japanese package for Flexicontent</name>
 	<version>3.3.1.2</version>
 	<creationDate/>
 	<author>Flexicontent.org</author>
