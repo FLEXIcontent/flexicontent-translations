@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension type="file" version="3.2" method="upgrade">
 	<name>Japanese package for Flexicontent</name>
-	<version>3.3.1.2</version>
+	<version>3.3.1.6</version>
 	<creationDate/>
 	<author>Flexicontent.org</author>
 	<authorEmail>traduction@Flexicontent.org</authorEmail>
@@ -12,7 +12,7 @@
 	<packager>flexicontent.org</packager>
 	<packagerurl>http://flexicontent.org</packagerurl>
 	<description><![CDATA[<div style="text-align: left;">
-<h3>Flexicontent! 3.3 English translation (en-GB) Version 3.3]]></description>
+<h3>Flexicontent! 3.3 Japanese translation (en-GB) Version 3.3]]></description>
 	<fileset>
 
 		<!-- Front-end -->
@@ -204,7 +204,7 @@
 		</files>
 		</fileset>
 	<updateservers>
-		<server type="collection" priority="1" name="English package for Flexicontent">
+		<server type="collection" priority="1" name="Japanese package for Flexicontent">
 https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/translationlist_flexicontent.xml</server>
 	</updateservers>
 </extension>
