@@ -35,74 +35,74 @@
 			<filename>ja-JP.presentation.ini</filename>
 		</files>
 		<files folder="site/templates/grid/language/en-GB" target="components/com_flexicontent/templates/grid/language/en-GB">
-			<filename>en-GB.grid.ini</filename>
+			<filename>ja-JP.grid.ini</filename>
 		</files>
 		<files folder="site/templates/table/language/en-GB" target="components/com_flexicontent/templates/table/language/en-GB">
-			<filename>en-GB.table.ini</filename>
+			<filename>ja-JP.table.ini</filename>
 		</files>
 
 		<!-- Backend-end -->
-		<files folder="admin/language/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.com_flexicontent.ini</filename>
-			<filename>en-GB.com_flexicontent.ini</filename>
+		<files folder="admin/language/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.com_flexicontent.ini</filename>
+			<filename>ja-JP.com_flexicontent.ini</filename>
 		</files>
 
 		<!-- Modules -->
-		<files folder="modules/mod_flexiadvsearch/language/en-GB" target="language/ja-JP">
-			<filename>en-GB.mod_flexiadvsearch.ini</filename>
-			<filename>en-GB.mod_flexiadvsearch.sys.ini</filename>
+		<files folder="modules/mod_flexiadvsearch/language/ja-JP" target="language/ja-JP">
+			<filename>ja-JP.mod_flexiadvsearch.ini</filename>
+			<filename>ja-JP.mod_flexiadvsearch.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexicategories/language/en-GB" target="language/ja-JP">
-			<filename>en-GB.mod_flexicategories.ini</filename>
-			<filename>en-GB.mod_flexicategories.sys.ini</filename>
+		<files folder="modules/mod_flexicategories/language/ja-JP" target="language/ja-JP">
+			<filename>ja-JP.mod_flexicategories.ini</filename>
+			<filename>ja-JP.mod_flexicategories.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexicontent/language/en-GB" target="language/ja-JP">
-			<filename>en-GB.mod_flexicontent.ini</filename>
-			<filename>en-GB.mod_flexicontent.sys.ini</filename>
+		<files folder="modules/mod_flexicontent/language/ja-JP" target="language/ja-JP">
+			<filename>ja-JP.mod_flexicontent.ini</filename>
+			<filename>ja-JP.mod_flexicontent.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexifilter/language/en-GB" target="language/ja-JP">
-			<filename>en-GB.mod_flexifilter.ini</filename>
-			<filename>en-GB.mod_flexifilter.sys.ini</filename>
+		<files folder="modules/mod_flexifilter/language/ja-JP" target="language/ja-JP">
+			<filename>ja-JP.mod_flexifilter.ini</filename>
+			<filename>ja-JP.mod_flexifilter.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexigooglemap/language/en-GB" target="language/en-GB">
-			<filename>en-GB.mod_flexigooglemap.ini</filename>
-			<filename>en-GB.mod_flexigooglemap.sys.ini</filename>
+		<files folder="modules/mod_flexigooglemap/language/ja-JP" target="language/ja-JP">
+			<filename>ja-JP.mod_flexigooglemap.ini</filename>
+			<filename>ja-JP.mod_flexigooglemap.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexitagcloud/language/en-GB" target="language/en-GB">
-			<filename>en-GB.mod_flexitagcloud.ini</filename>
-			<filename>en-GB.mod_flexitagcloud.sys.ini</filename>
+		<files folder="modules/mod_flexitagcloud/language/ja-JP" target="language/ja-JP">
+			<filename>ja-JP.mod_flexitagcloud.ini</filename>
+			<filename>ja-JP.mod_flexitagcloud.sys.ini</filename>
 		</files>
 
 		<!-- Plugins system -->
-		<files folder="plugins/content/flexibreak/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_content_flexibreak.ini</filename>
-			<filename>en-GB.plg_content_flexibreak.sys.ini</filename>
+		<files folder="plugins/content/flexibreak/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_content_flexibreak.ini</filename>
+			<filename>ja-JP.plg_content_flexibreak.sys.ini</filename>
 		</files>
-		<files folder="plugins/finder/flexicontent/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_finder_flexicontent.ini</filename>
-			<filename>en-GB.plg_finder_flexicontent.sys.ini</filename>
+		<files folder="plugins/finder/flexicontent/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_finder_flexicontent.ini</filename>
+			<filename>ja-JP.plg_finder_flexicontent.sys.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent/flexinotify/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_flexicontent_flexinotify.ini</filename>
-			<filename>en-GB.plg_flexicontent_flexinotify.sys.ini</filename>
+		<files folder="plugins/flexicontent/flexinotify/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_flexinotify.ini</filename>
+			<filename>ja-JP.plg_flexicontent_flexinotify.sys.ini</filename>
 		</files>
-		<files folder="plugins/osmap/com_flexicontent/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_osmap_com_flexicontent.ini</filename>
+		<files folder="plugins/osmap/com_flexicontent/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_osmap_com_flexicontent.ini</filename>
 		</files>
-		<files folder="plugins/search/flexiadvsearch/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_search_flexiadvsearch.ini</filename>
-			<filename>en-GB.plg_search_flexiadvsearch.sys.ini</filename>
+		<files folder="plugins/search/flexiadvsearch/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_search_flexiadvsearch.ini</filename>
+			<filename>ja-JP.plg_search_flexiadvsearch.sys.ini</filename>
 		</files>
-		<files folder="plugins/search/flexisearch/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_search_flexisearch.ini</filename>
-			<filename>en-GB.plg_search_flexisearch.sys.ini</filename>
+		<files folder="plugins/search/flexisearch/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_search_flexisearch.ini</filename>
+			<filename>ja-JP.plg_search_flexisearch.sys.ini</filename>
 		</files>
-		<files folder="plugins/system/flexiadvroute/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_system_flexiadvroute.ini</filename>
+		<files folder="plugins/system/flexiadvroute/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_system_flexiadvroute.ini</filename>
 		</files>
-		<files folder="plugins/system/flexisystem/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_system_flexisystem.ini</filename>
-			<filename>en-GB.plg_system_flexisystem_common_be.ini</filename>
+		<files folder="plugins/system/flexisystem/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_system_flexisystem.ini</filename>
+			<filename>ja-JP.plg_system_flexisystem_common_be.ini</filename>
 		</files>
 		<files folder="plugins/editors-xtd/fccat" target="administrator/language/ja-JP">
 			<filename>en-GB.plg_editors-xtd_fccat.ini</filename>
@@ -114,107 +114,107 @@
 		</files>
 
 		<!-- Plugins flexicontent -->
-		<files folder="plugins/flexicontent_fields/account_via_submit/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_flexicontent_fields_account_via_submit.ini</filename>
+		<files folder="plugins/flexicontent_fields/account_via_submit/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_fields_account_via_submit.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/addressint/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_flexicontent_fields_addressint.ini</filename>
+		<files folder="plugins/flexicontent_fields/addressint/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_fields_addressint.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/authoritems/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_flexicontent_fields_authoritems.ini</filename>
+		<files folder="plugins/flexicontent_fields/authoritems/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_fields_authoritems.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/checkbox/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_flexicontent_fields_checkbox.ini</filename>
+		<files folder="plugins/flexicontent_fields/checkbox/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_fields_checkbox.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/checkboximage/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_flexicontent_fields_checkboximage.ini</filename>
+		<files folder="plugins/flexicontent_fields/checkboximage/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_fields_checkboximage.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/color/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_flexicontent_fields_color.ini</filename>
+		<files folder="plugins/flexicontent_fields/color/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_fields_color.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/comments/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_flexicontent_fields_comments.ini</filename>
+		<files folder="plugins/flexicontent_fields/comments/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_fields_comments.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/core/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_flexicontent_fields_core.ini</filename>
+		<files folder="plugins/flexicontent_fields/core/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_fields_core.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/coreprops/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_flexicontent_fields_coreprops.ini</filename>
+		<files folder="plugins/flexicontent_fields/coreprops/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_fields_coreprops.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/date/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_flexicontent_fields_date.ini</filename>
+		<files folder="plugins/flexicontent_fields/date/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_fields_date.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/email/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_flexicontent_fields_email.ini</filename>
+		<files folder="plugins/flexicontent_fields/email/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_fields_email.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/fcloadmodule/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_flexicontent_fields_fcloadmodule.ini</filename>
+		<files folder="plugins/flexicontent_fields/fcloadmodule/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_fields_fcloadmodule.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/fcpagenav/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_flexicontent_fields_fcpagenav.ini</filename>
+		<files folder="plugins/flexicontent_fields/fcpagenav/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_fields_fcpagenav.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/fieldgroup/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_flexicontent_fields_fieldgroup.ini</filename>
+		<files folder="plugins/flexicontent_fields/fieldgroup/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_fields_fieldgroup.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/file/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_flexicontent_fields_file.ini</filename>
+		<files folder="plugins/flexicontent_fields/file/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_fields_file.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/groupmarker/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_flexicontent_fields_groupmarker.ini</filename>
+		<files folder="plugins/flexicontent_fields/groupmarker/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_fields_groupmarker.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/image/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_flexicontent_fields_image.ini</filename>
+		<files folder="plugins/flexicontent_fields/image/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_fields_image.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/jprofile/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_flexicontent_fields_jprofile.ini</filename>
+		<files folder="plugins/flexicontent_fields/jprofile/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_fields_jprofile.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/linkslist/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_flexicontent_fields_linkslist.ini</filename>
+		<files folder="plugins/flexicontent_fields/linkslist/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_fields_linkslist.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/minigallery/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_flexicontent_fields_minigallery.ini</filename>
+		<files folder="plugins/flexicontent_fields/minigallery/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_fields_minigallery.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/phonenumbers/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_flexicontent_fields_phonenumbers.ini</filename>
+		<files folder="plugins/flexicontent_fields/phonenumbers/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_fields_phonenumbers.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/radio/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_flexicontent_fields_radio.ini</filename>
+		<files folder="plugins/flexicontent_fields/radio/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_fields_radio.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/radioimage/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_flexicontent_fields_radioimage.ini</filename>
+		<files folder="plugins/flexicontent_fields/radioimage/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_fields_radioimage.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/relation/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_flexicontent_fields_relation.ini</filename>
+		<files folder="plugins/flexicontent_fields/relation/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_fields_relation.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/relation_reverse/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_flexicontent_fields_relation_reverse.ini</filename>
+		<files folder="plugins/flexicontent_fields/relation_reverse/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_fields_relation_reverse.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/select/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_flexicontent_fields_select.ini</filename>
+		<files folder="plugins/flexicontent_fields/select/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_fields_select.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/selectmultiple/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_flexicontent_fields_selectmultiple.ini</filename>
+		<files folder="plugins/flexicontent_fields/selectmultiple/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_fields_selectmultiple.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/sharedmedia/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_flexicontent_fields_sharedmedia.ini</filename>
+		<files folder="plugins/flexicontent_fields/sharedmedia/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_fields_sharedmedia.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/termlist/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_flexicontent_fields_termlist.ini</filename>
+		<files folder="plugins/flexicontent_fields/termlist/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_fields_termlist.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/text/en-GB" target="administrator/language/ja-JP">
-			<filename>en-GB.plg_flexicontent_fields_text.ini</filename>
+		<files folder="plugins/flexicontent_fields/text/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_fields_text.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/textarea/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_textarea.ini</filename>
+		<files folder="plugins/flexicontent_fields/textarea/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_fields_textarea.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/textselect/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_textselect.ini</filename>
+		<files folder="plugins/flexicontent_fields/textselect/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_fields_textselect.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/toolbar/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_toolbar.ini</filename>
+		<files folder="plugins/flexicontent_fields/toolbar/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_fields_toolbar.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/weblink/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_weblink.ini</filename>
+		<files folder="plugins/flexicontent_fields/weblink/ja-JP" target="administrator/language/ja-JP">
+			<filename>ja-JP.plg_flexicontent_fields_weblink.ini</filename>
 		</files>
 		</fileset>
 	<updateservers>
