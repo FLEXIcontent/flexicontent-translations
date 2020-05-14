@@ -8,3 +8,4 @@ files:
     en-GB.: ''
   - source: /pkg_en-GB.xml
     translation: /pkg_%locale%.xml
+  - source: /plugins/editors-xtd/fccat/*.ini
