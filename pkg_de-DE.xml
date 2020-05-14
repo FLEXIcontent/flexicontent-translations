@@ -37,7 +37,7 @@
 		<files folder="site/templates/grid/language/de-DE" target="components/com_flexicontent/templates/grid/language/de-DE">
 			<filename>de-DE.grid.ini</filename>
 		</files>
-		<files folder="site/templates/table/language/en-GB" target="components/com_flexicontent/templates/table/language/de-DE">
+		<files folder="site/templates/table/language/de-DE" target="components/com_flexicontent/templates/table/language/de-DE">
 			<filename>de-DE.table.ini</filename>
 		</files>
 
@@ -105,12 +105,12 @@
 			<filename>de-DE.plg_system_flexisystem_common_be.ini</filename>
 		</files>
 		<files folder="plugins/editors-xtd/fccat" target="administrator/language/de-DE">
-			<filename>en-GB.plg_editors-xtd_fccat.ini</filename>
-			<filename>en-GB.plg_editors-xtd_fccat.sys.ini</filename>
+			<filename>de-DE.plg_editors-xtd_fccat.ini</filename>
+			<filename>de-DE.plg_editors-xtd_fccat.sys.ini</filename>
 		</files>
 		<files folder="plugins/editors-xtd/fcitem" target="administrator/language/de-DE">
-			<filename>en-GB.plg_editors-xtd_fcitem.ini</filename>
-			<filename>en-GB.plg_editors-xtd_fcitem.sys.ini</filename>
+			<filename>de-DE.plg_editors-xtd_fcitem.ini</filename>
+			<filename>de-DE.plg_editors-xtd_fcitem.sys.ini</filename>
 		</files>
 
 		<!-- Plugins flexicontent -->
