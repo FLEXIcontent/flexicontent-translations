@@ -34,173 +34,187 @@
 		<files folder="site/templates/presentation/language/zh-TW" target="components/com_flexicontent/templates/presentation/language/zh-TW">
 			<filename>zh-TW.presentation.ini</filename>
 		</files>
+		<files folder="site/templates/grid/language/en-GB" target="components/com_flexicontent/templates/presentation/language/en-GB">
+			<filename>en-GB.grid.ini</filename>
+		</files>
+		<files folder="site/templates/table/language/en-GB" target="components/com_flexicontent/templates/table/language/fr-fR">
+			<filename>en-GB.table.ini</filename>
+		</files>
 
 		<!-- Backend-end -->
-		<files folder="admin/language/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.com_flexicontent.ini</filename>
-			<filename>zh-TW.com_flexicontent.ini</filename>
+		<files folder="admin/language/en-GB" target="administrator/language/en-GB">
+			<filename>en-GB.com_flexicontent.ini</filename>
+			<filename>en-GB.com_flexicontent.ini</filename>
 		</files>
 
 		<!-- Modules -->
-		<files folder="modules/mod_flexiadvsearch/language/zh-TW" target="language/zh-TW">
-			<filename>zh-TW.mod_flexiadvsearch.ini</filename>
-			<filename>zh-TW.mod_flexiadvsearch.sys.ini</filename>
+		<files folder="modules/mod_flexiadvsearch/language/en-GB" target="language/zh-TW">
+			<filename>en-GB.mod_flexiadvsearch.ini</filename>
+			<filename>en-GB.mod_flexiadvsearch.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexicategories/language/zh-TW" target="language/zh-TW">
-			<filename>zh-TW.mod_flexicategories.ini</filename>
-			<filename>zh-TW.mod_flexicategories.sys.ini</filename>
+		<files folder="modules/mod_flexicategories/language/en-GB" target="language/zh-TW">
+			<filename>en-GB.mod_flexicategories.ini</filename>
+			<filename>en-GB.mod_flexicategories.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexicontent/language/zh-TW" target="language/zh-TW">
-			<filename>zh-TW.mod_flexicontent.ini</filename>
-			<filename>zh-TW.mod_flexicontent.sys.ini</filename>
+		<files folder="modules/mod_flexicontent/language/en-GB" target="language/zh-TW">
+			<filename>en-GB.mod_flexicontent.ini</filename>
+			<filename>en-GB.mod_flexicontent.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexifilter/language/zh-TW" target="language/zh-TW">
-			<filename>zh-TW.mod_flexifilter.ini</filename>
-			<filename>zh-TW.mod_flexifilter.sys.ini</filename>
+		<files folder="modules/mod_flexifilter/language/en-GB" target="language/zh-TW">
+			<filename>en-GB.mod_flexifilter.ini</filename>
+			<filename>en-GB.mod_flexifilter.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexigooglemap/language/zh-TW" target="language/zh-TW">
-			<filename>zh-TW.mod_flexigooglemap.ini</filename>
-			<filename>zh-TW.mod_flexigooglemap.sys.ini</filename>
+		<files folder="modules/mod_flexigooglemap/language/en-GB" target="language/en-GB">
+			<filename>en-GB.mod_flexigooglemap.ini</filename>
+			<filename>en-GB.mod_flexigooglemap.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexitagcloud/language/zh-TW" target="language/zh-TW">
-			<filename>zh-TW.mod_flexitagcloud.ini</filename>
-			<filename>zh-TW.mod_flexitagcloud.sys.ini</filename>
+		<files folder="modules/mod_flexitagcloud/language/en-GB" target="language/en-GB">
+			<filename>en-GB.mod_flexitagcloud.ini</filename>
+			<filename>en-GB.mod_flexitagcloud.sys.ini</filename>
 		</files>
 
 		<!-- Plugins system -->
-		<files folder="plugins/content/flexibreak/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_content_flexibreak.ini</filename>
-			<filename>zh-TW.plg_content_flexibreak.sys.ini</filename>
+		<files folder="plugins/content/flexibreak/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_content_flexibreak.ini</filename>
+			<filename>en-GB.plg_content_flexibreak.sys.ini</filename>
 		</files>
-		<files folder="plugins/finder/flexicontent/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_finder_flexicontent.ini</filename>
-			<filename>zh-TW.plg_finder_flexicontent.sys.ini</filename>
+		<files folder="plugins/finder/flexicontent/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_finder_flexicontent.ini</filename>
+			<filename>en-GB.plg_finder_flexicontent.sys.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent/flexinotify/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_flexinotify.ini</filename>
-			<filename>zh-TW.plg_flexicontent_flexinotify.sys.ini</filename>
+		<files folder="plugins/flexicontent/flexinotify/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_flexicontent_flexinotify.ini</filename>
+			<filename>en-GB.plg_flexicontent_flexinotify.sys.ini</filename>
 		</files>
-		<files folder="plugins/osmap/com_flexicontent/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_osmap_com_flexicontent.ini</filename>
+		<files folder="plugins/osmap/com_flexicontent/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_osmap_com_flexicontent.ini</filename>
 		</files>
-		<files folder="plugins/search/flexiadvsearch/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_search_flexiadvsearch.ini</filename>
-			<filename>zh-TW.plg_search_flexiadvsearch.sys.ini</filename>
+		<files folder="plugins/search/flexiadvsearch/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_search_flexiadvsearch.ini</filename>
+			<filename>en-GB.plg_search_flexiadvsearch.sys.ini</filename>
 		</files>
-		<files folder="plugins/search/flexisearch/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_search_flexisearch.ini</filename>
-			<filename>zh-TW.plg_search_flexisearch.sys.ini</filename>
+		<files folder="plugins/search/flexisearch/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_search_flexisearch.ini</filename>
+			<filename>en-GB.plg_search_flexisearch.sys.ini</filename>
 		</files>
-		<files folder="plugins/system/flexiadvroute/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_system_flexiadvroute.ini</filename>
+		<files folder="plugins/system/flexiadvroute/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_system_flexiadvroute.ini</filename>
 		</files>
-		<files folder="plugins/system/flexisystem/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_system_flexisystem.ini</filename>
-			<filename>zh-TW.plg_system_flexisystem_common_be.ini</filename>
+		<files folder="plugins/system/flexisystem/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_system_flexisystem.ini</filename>
+			<filename>en-GB.plg_system_flexisystem_common_be.ini</filename>
+		</files>
+		<files folder="plugins/editors-xtd/fccat" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_editors-xtd_fccat.ini</filename>
+			<filename>en-GB.plg_editors-xtd_fccat.sys.ini</filename>
+		</files>
+		<files folder="plugins/editors-xtd/fcitem" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_editors-xtd_fcitem.ini</filename>
+			<filename>en-GB.plg_editors-xtd_fcitem.sys.ini</filename>
 		</files>
 
 		<!-- Plugins flexicontent -->
-		<files folder="plugins/flexicontent_fields/account_via_submit/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_fields_account_via_submit.ini</filename>
+		<files folder="plugins/flexicontent_fields/account_via_submit/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_flexicontent_fields_account_via_submit.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/addressint/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_fields_addressint.ini</filename>
+		<files folder="plugins/flexicontent_fields/addressint/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_flexicontent_fields_addressint.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/authoritems/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_fields_authoritems.ini</filename>
+		<files folder="plugins/flexicontent_fields/authoritems/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_flexicontent_fields_authoritems.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/checkbox/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_fields_checkbox.ini</filename>
+		<files folder="plugins/flexicontent_fields/checkbox/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_flexicontent_fields_checkbox.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/checkboximage/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_fields_checkboximage.ini</filename>
+		<files folder="plugins/flexicontent_fields/checkboximage/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_flexicontent_fields_checkboximage.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/color/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_fields_color.ini</filename>
+		<files folder="plugins/flexicontent_fields/color/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_flexicontent_fields_color.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/comments/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_fields_comments.ini</filename>
+		<files folder="plugins/flexicontent_fields/comments/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_flexicontent_fields_comments.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/core/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_fields_core.ini</filename>
+		<files folder="plugins/flexicontent_fields/core/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_flexicontent_fields_core.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/coreprops/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_fields_coreprops.ini</filename>
+		<files folder="plugins/flexicontent_fields/coreprops/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_flexicontent_fields_coreprops.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/date/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_fields_date.ini</filename>
+		<files folder="plugins/flexicontent_fields/date/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_flexicontent_fields_date.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/email/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_fields_email.ini</filename>
+		<files folder="plugins/flexicontent_fields/email/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_flexicontent_fields_email.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/fcloadmodule/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_fields_fcloadmodule.ini</filename>
+		<files folder="plugins/flexicontent_fields/fcloadmodule/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_flexicontent_fields_fcloadmodule.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/fcpagenav/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_fields_fcpagenav.ini</filename>
+		<files folder="plugins/flexicontent_fields/fcpagenav/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_flexicontent_fields_fcpagenav.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/fieldgroup/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_fields_fieldgroup.ini</filename>
+		<files folder="plugins/flexicontent_fields/fieldgroup/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_flexicontent_fields_fieldgroup.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/file/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_fields_file.ini</filename>
+		<files folder="plugins/flexicontent_fields/file/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_flexicontent_fields_file.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/groupmarker/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_fields_groupmarker.ini</filename>
+		<files folder="plugins/flexicontent_fields/groupmarker/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_flexicontent_fields_groupmarker.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/image/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_fields_image.ini</filename>
+		<files folder="plugins/flexicontent_fields/image/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_flexicontent_fields_image.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/jprofile/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_fields_jprofile.ini</filename>
+		<files folder="plugins/flexicontent_fields/jprofile/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_flexicontent_fields_jprofile.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/linkslist/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_fields_linkslist.ini</filename>
+		<files folder="plugins/flexicontent_fields/linkslist/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_flexicontent_fields_linkslist.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/minigallery/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_fields_minigallery.ini</filename>
+		<files folder="plugins/flexicontent_fields/minigallery/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_flexicontent_fields_minigallery.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/phonenumbers/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_fields_phonenumbers.ini</filename>
+		<files folder="plugins/flexicontent_fields/phonenumbers/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_flexicontent_fields_phonenumbers.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/radio/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_fields_radio.ini</filename>
+		<files folder="plugins/flexicontent_fields/radio/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_flexicontent_fields_radio.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/radioimage/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_fields_radioimage.ini</filename>
+		<files folder="plugins/flexicontent_fields/radioimage/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_flexicontent_fields_radioimage.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/relation/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_fields_relation.ini</filename>
+		<files folder="plugins/flexicontent_fields/relation/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_flexicontent_fields_relation.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/relation_reverse/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_fields_relation_reverse.ini</filename>
+		<files folder="plugins/flexicontent_fields/relation_reverse/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_flexicontent_fields_relation_reverse.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/select/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_fields_select.ini</filename>
+		<files folder="plugins/flexicontent_fields/select/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_flexicontent_fields_select.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/selectmultiple/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_fields_selectmultiple.ini</filename>
+		<files folder="plugins/flexicontent_fields/selectmultiple/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_flexicontent_fields_selectmultiple.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/sharedmedia/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_fields_sharedmedia.ini</filename>
+		<files folder="plugins/flexicontent_fields/sharedmedia/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_flexicontent_fields_sharedmedia.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/termlist/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_fields_termlist.ini</filename>
+		<files folder="plugins/flexicontent_fields/termlist/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_flexicontent_fields_termlist.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/text/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_fields_text.ini</filename>
+		<files folder="plugins/flexicontent_fields/text/en-GB" target="administrator/language/zh-TW">
+			<filename>en-GB.plg_flexicontent_fields_text.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/textarea/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_fields_textarea.ini</filename>
+		<files folder="plugins/flexicontent_fields/textarea/en-GB" target="administrator/language/en-GB">
+			<filename>en-GB.plg_flexicontent_fields_textarea.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/textselect/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_fields_textselect.ini</filename>
+		<files folder="plugins/flexicontent_fields/textselect/en-GB" target="administrator/language/en-GB">
+			<filename>en-GB.plg_flexicontent_fields_textselect.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/toolbar/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_fields_toolbar.ini</filename>
+		<files folder="plugins/flexicontent_fields/toolbar/en-GB" target="administrator/language/en-GB">
+			<filename>en-GB.plg_flexicontent_fields_toolbar.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/weblink/zh-TW" target="administrator/language/zh-TW">
-			<filename>zh-TW.plg_flexicontent_fields_weblink.ini</filename>
+		<files folder="plugins/flexicontent_fields/weblink/en-GB" target="administrator/language/en-GB">
+			<filename>en-GB.plg_flexicontent_fields_weblink.ini</filename>
 		</files>
 		</fileset>
 	<updateservers>
