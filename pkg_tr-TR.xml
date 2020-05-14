@@ -34,6 +34,12 @@
 		<files folder="site/templates/presentation/language/en-GB" target="components/com_flexicontent/templates/presentation/language/en-GB">
 			<filename>en-GB.presentation.ini</filename>
 		</files>
+		<files folder="site/templates/grid/language/en-GB" target="components/com_flexicontent/templates/presentation/language/en-GB">
+			<filename>en-GB.grid.ini</filename>
+		</files>
+		<files folder="site/templates/table/language/en-GB" target="components/com_flexicontent/templates/table/language/fr-fR">
+			<filename>en-GB.table.ini</filename>
+		</files>
 
 		<!-- Backend-end -->
 		<files folder="admin/language/en-GB" target="administrator/language/en-GB">
@@ -97,6 +103,14 @@
 		<files folder="plugins/system/flexisystem/en-GB" target="administrator/language/en-GB">
 			<filename>en-GB.plg_system_flexisystem.ini</filename>
 			<filename>en-GB.plg_system_flexisystem_common_be.ini</filename>
+		</files>
+		<files folder="plugins/editors-xtd/fccat" target="administrator/language/en-GB">
+			<filename>en-GB.plg_editors-xtd_fccat.ini</filename>
+			<filename>en-GB.plg_editors-xtd_fccat.sys.ini</filename>
+		</files>
+		<files folder="plugins/editors-xtd/fcitem" target="administrator/language/en-GB">
+			<filename>en-GB.plg_editors-xtd_fcitem.ini</filename>
+			<filename>en-GB.plg_editors-xtd_fcitem.sys.ini</filename>
 		</files>
 
 		<!-- Plugins flexicontent -->
