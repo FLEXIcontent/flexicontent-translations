@@ -22,7 +22,7 @@
 		<files folder="site/templates/blog/language/ja-JP" target="components/com_flexicontent/templates/blog/language/ja-JP">
 			<filename>ja-JP.blog.ini</filename>
 		</files>
-		<files folder="site/templates/default/language/ja-JP" target="components/com_flexicontent/templates/default/language/ja-JP">
+		<files folder="site/templates/default/language/ja-JP" target="components/com_flexicontent/templates/default/language/en-GB">
 			<filename>ja-JP.default.ini</filename>
 		</files>
 		<files folder="site/templates/faq/language/ja-JP" target="components/com_flexicontent/templates/faq/language/ja-JP">
@@ -37,7 +37,7 @@
 		<files folder="site/templates/grid/language/en-GB" target="components/com_flexicontent/templates/grid/language/en-GB">
 			<filename>en-GB.grid.ini</filename>
 		</files>
-		<files folder="site/templates/table/language/en-GB" target="components/com_flexicontent/templates/table/language/fr-fR">
+		<files folder="site/templates/table/language/en-GB" target="components/com_flexicontent/templates/table/language/en-GB">
 			<filename>en-GB.table.ini</filename>
 		</files>
 
