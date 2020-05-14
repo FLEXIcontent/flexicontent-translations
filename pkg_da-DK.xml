@@ -34,7 +34,7 @@
 		<files folder="site/templates/presentation/language/en-GB" target="components/com_flexicontent/templates/presentation/language/en-GB">
 			<filename>en-GB.presentation.ini</filename>
 		</files>
-		<files folder="site/templates/grid/language/en-GB" target="components/com_flexicontent/templates/presentation/language/en-GB">
+		<files folder="site/templates/grid/language/en-GB" target="components/com_flexicontent/templates/grid/language/en-GB">
 			<filename>en-GB.grid.ini</filename>
 		</files>
 		<files folder="site/templates/table/language/en-GB" target="components/com_flexicontent/templates/table/language/fr-fR">
