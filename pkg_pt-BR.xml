@@ -34,10 +34,10 @@
 		<files folder="site/templates/presentation/language/pt-BR" target="components/com_flexicontent/templates/presentation/language/pt-BR">
 			<filename>pt-BR.presentation.ini</filename>
 		</files>
-		<files folder="site/templates/grid/language/en-GB" target="components/com_flexicontent/templates/grid/language/en-GB">
+		<files folder="site/templates/grid/language/pt-BR" target="components/com_flexicontent/templates/grid/language/pt-BR">
 			<filename>pt-BR.grid.ini</filename>
 		</files>
-		<files folder="site/templates/table/language/en-GB" target="components/com_flexicontent/templates/table/language/en-GB">
+		<files folder="site/templates/table/language/pt-BR" target="components/com_flexicontent/templates/table/language/pt-BR">
 			<filename>pt-BR.table.ini</filename>
 		</files>
 
@@ -105,8 +105,8 @@
 			<filename>pt-BR.plg_system_flexisystem_common_be.ini</filename>
 		</files>
 		<files folder="plugins/editors-xtd/fccat" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_editors-xtd_fccat.ini</filename>
-			<filename>en-GB.plg_editors-xtd_fccat.sys.ini</filename>
+			<filename>pt-BR.plg_editors-xtd_module.ini</filename>
+			<filename>pt-BR.plg_editors-xtd_module.sys.ini</filename>
 		</files>
 		<files folder="plugins/editors-xtd/fcitem" target="administrator/language/pt-BR">
 			<filename>en-GB.plg_editors-xtd_fcitem.ini</filename>
