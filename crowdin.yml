@@ -4,7 +4,10 @@ base_path:
 files:
   - source: /**/en-GB/*.ini
     translation: /**/%locale%/%locale%.%file_name%.ini
-    translation_replace:
-    en-GB.: ''
+    translation_replace: 
+  - source: /plugins/editors-xtd/fccat/*.ini
+    translation: /plugins/editors-xtd/fccat/%locale%.%file_name%.ini
+  - source: /plugins/editors-xtd/fcitem/*.ini
+    translation: /plugins/editors-xtd/fcitem/%locale%.%file_name%.ini
   - source: /pkg_en-GB.xml
     translation: /pkg_%locale%.xml
