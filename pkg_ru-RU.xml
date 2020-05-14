@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension type="file" version="3.2" method="upgrade">
 	<name>Английская упаковка для Flexicontent</name>
-	<version>3.3.2</version>
+	<version>3.3.5</version>
 	<creationDate/>
 	<author>Flexicontent.org</author>
 	<authorEmail>traduction@Flexicontent.org</authorEmail>
@@ -22,7 +22,7 @@
 		<files folder="site/templates/blog/language/ru-RU" target="components/com_flexicontent/templates/blog/language/ru-RU">
 			<filename>ru-RU.blog.ini</filename>
 		</files>
-		<files folder="site/templates/default/language/ru-RU" target="components/com_flexicontent/templates/default/language/en-GB">
+		<files folder="site/templates/default/language/ru-RU" target="components/com_flexicontent/templates/default/language/ru-RU">
 			<filename>ru-RU.default.ini</filename>
 		</files>
 		<files folder="site/templates/faq/language/ru-RU" target="components/com_flexicontent/templates/faq/language/ru-RU">
@@ -34,10 +34,10 @@
 		<files folder="site/templates/presentation/language/ru-RU" target="components/com_flexicontent/templates/presentation/language/ru-RU">
 			<filename>ru-RU.presentation.ini</filename>
 		</files>
-		<files folder="site/templates/grid/language/en-GB" target="components/com_flexicontent/templates/grid/language/en-GB">
+		<files folder="site/templates/grid/language/ru-RU" target="components/com_flexicontent/templates/grid/language/ru-RU">
 			<filename>ru-RU.grid.ini</filename>
 		</files>
-		<files folder="site/templates/table/language/en-GB" target="components/com_flexicontent/templates/table/language/en-GB">
+		<files folder="site/templates/table/language/ru-RU" target="components/com_flexicontent/templates/table/language/ru-RU">
 			<filename>ru-RU.table.ini</filename>
 		</files>
 
@@ -105,12 +105,12 @@
 			<filename>ru-RU.plg_system_flexisystem_common_be.ini</filename>
 		</files>
 		<files folder="plugins/editors-xtd/fccat" target="administrator/language/ru-RU">
-			<filename>en-GB.plg_editors-xtd_fccat.ini</filename>
-			<filename>en-GB.plg_editors-xtd_fccat.sys.ini</filename>
+			<filename>ru-RU.plg_editors-xtd_fccat.ini</filename>
+			<filename>ru-RU.plg_editors-xtd_fccat.sys.ini</filename>
 		</files>
 		<files folder="plugins/editors-xtd/fcitem" target="administrator/language/ru-RU">
-			<filename>en-GB.plg_editors-xtd_fcitem.ini</filename>
-			<filename>en-GB.plg_editors-xtd_fcitem.sys.ini</filename>
+			<filename>ru-RU.plg_editors-xtd_fcitem.ini</filename>
+			<filename>ru-RU.plg_editors-xtd_fcitem.sys.ini</filename>
 		</files>
 
 		<!-- Plugins flexicontent -->
