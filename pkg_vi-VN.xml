@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<extension type="tập tin" version="3.2" method="upgrade">
+<extension type="file" version="3.2" method="upgrade">
 	<name>English package for Flexicontent</name>
-	<version>3.3.1.2</version>
+	<version>3.3.5</version>
 	<creationDate/>
 	<author>Flexicontent.org</author>
 	<authorEmail>traduction@Flexicontent.org</authorEmail>
@@ -19,25 +19,25 @@
 		<files folder="site/language/vi-VN" target="language/vi-VN">
 			<filename>vi-VN.com_flexicontent.ini</filename>
 		</files>
-		<files folder="site/templates/blog/language/vi-VN" target="components/com_flexicontent/templates/blog/language/en-GB">
+		<files folder="site/templates/blog/language/vi-VN" target="components/com_flexicontent/templates/blog/language/vi-VN">
 			<filename>vi-VN.blog.ini</filename>
 		</files>
-		<files folder="site/templates/default/language/vi-VN" target="components/com_flexicontent/templates/default/language/en-GB">
+		<files folder="site/templates/default/language/vi-VN" target="components/com_flexicontent/templates/default/language/vi-VN">
 			<filename>vi-VN.default.ini</filename>
 		</files>
-		<files folder="site/templates/faq/language/vi-VN" target="components/com_flexicontent/templates/faq/language/en-GB">
+		<files folder="site/templates/faq/language/vi-VN" target="components/com_flexicontent/templates/faq/language/vi-VN">
 			<filename>vi-VN.faq.ini</filename>
 		</files>
-		<files folder="site/templates/items-tabbed/language/vi-VN" target="components/com_flexicontent/templates/items-tabbed/language/en-GB">
+		<files folder="site/templates/items-tabbed/language/vi-VN" target="components/com_flexicontent/templates/items-tabbed/language/vi-VN">
 			<filename>vi-VN.items-tabbed.ini</filename>
 		</files>
-		<files folder="site/templates/presentation/language/vi-VN" target="components/com_flexicontent/templates/presentation/language/en-GB">
+		<files folder="site/templates/presentation/language/vi-VN" target="components/com_flexicontent/templates/presentation/language/vi-VN">
 			<filename>vi-VN.presentation.ini</filename>
 		</files>
-		<files folder="site/templates/grid/language/en-GB" target="components/com_flexicontent/templates/grid/language/en-GB">
+		<files folder="site/templates/grid/language/vi-VN" target="components/com_flexicontent/templates/grid/language/vi-VN">
 			<filename>vi-VN.grid.ini</filename>
 		</files>
-		<files folder="site/templates/table/language/en-GB" target="components/com_flexicontent/templates/table/language/en-GB">
+		<files folder="site/templates/table/language/vi-VN" target="components/com_flexicontent/templates/table/language/vi-VN">
 			<filename>vi-VN.table.ini</filename>
 		</files>
 
@@ -105,12 +105,12 @@
 			<filename>vi-VN.plg_system_flexisystem_common_be.ini</filename>
 		</files>
 		<files folder="plugins/editors-xtd/fccat" target="administrator/language/vi-VN">
-			<filename>en-GB.plg_editors-xtd_fccat.ini</filename>
-			<filename>en-GB.plg_editors-xtd_fccat.sys.ini</filename>
+			<filename>vi-VN.plg_editors-xtd_fccat.ini</filename>
+			<filename>vi-VN.plg_editors-xtd_fccat.sys.ini</filename>
 		</files>
 		<files folder="plugins/editors-xtd/fcitem" target="administrator/language/vi-VN">
-			<filename>en-GB.plg_editors-xtd_fcitem.ini</filename>
-			<filename>en-GB.plg_editors-xtd_fcitem.sys.ini</filename>
+			<filename>vi-VN.plg_editors-xtd_fcitem.ini</filename>
+			<filename>vi-VN.plg_editors-xtd_fcitem.sys.ini</filename>
 		</files>
 
 		<!-- Plugins flexicontent -->
@@ -218,7 +218,7 @@
 		</files>
 		</fileset>
 	<updateservers>
-		<server type="collection" priority="1" name="English package for Flexicontent">
+		<server type="collection" priority="1" name="Vietnames translation for flexicontent">
 https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/translationlist_flexicontent.xml</server>
 	</updateservers>
 </extension>
