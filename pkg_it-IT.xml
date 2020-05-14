@@ -22,7 +22,7 @@
 		<files folder="site/templates/blog/language/it-IT" target="components/com_flexicontent/templates/blog/language/it-IT">
 			<filename>it-IT.blog.ini</filename>
 		</files>
-		<files folder="site/templates/default/language/it-IT" target="components/com_flexicontent/templates/default/language/it-IT">
+		<files folder="site/templates/default/language/it-IT" target="components/com_flexicontent/templates/default/language/en-GB">
 			<filename>it-IT.default.ini</filename>
 		</files>
 		<files folder="site/templates/faq/language/it-IT" target="components/com_flexicontent/templates/faq/language/it-IT">
@@ -37,7 +37,7 @@
 		<files folder="site/templates/grid/language/en-GB" target="components/com_flexicontent/templates/grid/language/en-GB">
 			<filename>en-GB.grid.ini</filename>
 		</files>
-		<files folder="site/templates/table/language/en-GB" target="components/com_flexicontent/templates/table/language/fr-fR">
+		<files folder="site/templates/table/language/en-GB" target="components/com_flexicontent/templates/table/language/en-GB">
 			<filename>en-GB.table.ini</filename>
 		</files>
 
