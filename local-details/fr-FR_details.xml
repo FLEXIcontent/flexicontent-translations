@@ -5,7 +5,7 @@
 	<description>Traduction Française de Flexicontent</description>
 	<element>pkg_fr-FR</element>
 	<type>file</type>
-	<version>3.3.2</version>
+	<version>3.3.5</version>
 	<downloads>
 	<downloadurl type="full" format="zip">
 	https://crowdin.com/backend/download/project/flexicontent-cck-for-joomla/fr.zip

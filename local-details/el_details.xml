@@ -4,7 +4,7 @@
 <description>Greek Translation of Flexicontent</description>
 <element>pkg_el</element>
 <type>package</type>
-<version>3.3.2</version>
+<version>3.3.5</version>
 <downloads>
 <downloadurl type="full" format="zip">
 https://crowdin.com/backend/download/project/flexicontent-cck-for-joomla/el.zip
