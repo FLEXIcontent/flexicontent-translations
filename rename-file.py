@@ -34,6 +34,6 @@ def renomme(repertoire, motifs=['*.ini'], entete="en-GB.", affiche=False):
  
     return nbfichiers # nombre de fichiers renommés
 	
-repertoire = r"C:\Users\yannick\Documents\GitHub\flexicontent-translations"
+repertoire = r"C:\Users\mimour\Documents\GitHub\flexicontent-translations"
 nbfichiers = renomme(repertoire, motifs=['*.ini'], entete="en-GB.", affiche=True)
-Print("Nombre de fichiers renommés:", nbfichiers)
+print("Nombre de fichiers renommés:", nbfichiers)

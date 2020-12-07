@@ -78,10 +78,10 @@ def sauveselect(repsrce, repdest, motifs=['*'], modifie=None, affiche=False):
  
     return nsrce, ndest, erreurs
 # répertoire source
-repsrce = r"C:\Users\yannick\Documents\GitHub\flexicontent-cck"
+repsrce = r"C:\Users\mimour\Documents\GitHub\flexicontent-cck"
  
 # répertoire destination
-repdest = r"C:\Users\yannick\Documents\GitHub\flexicontent-translations"
+repdest = r"C:\Users\mimour\Documents\GitHub\flexicontent-translations"
  
 # liste de motifs de type "wildcard"
 motifs = ["*.ini"]
