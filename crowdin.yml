@@ -12,7 +12,7 @@ files:
   - source: /pkg_en-GB.xml
     translation: /pkg_%locale%.xml
   - source: /plugins/content/flexibreak/*.ini
-    translation: /plugins/content/flexibreak/%locale%.%file_name%.ini
+    translation: /plugins/content/flexibreak/%locale%/%locale%.%file_name%.ini
   - source: /plugins/finder/flexicontent/*.ini
     translation: /plugins/finder/flexicontent/%locale%.%file_name%.ini
   - source: /plugins/flexicontent/flexinotify/*.ini
