@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension type="file" version="3.2" method="upgrade">
 	<name>Paquet de langue français pour Flexicontent</name>
-	<version>3.3.5</version>
+	<version>3.4</version>
 	<creationDate/>
 	<author>Flexicontent.org</author>
 	<authorEmail>traduction@Flexicontent.org</authorEmail>
@@ -12,7 +12,7 @@
 	<packager>flexicontent.org</packager>
 	<packagerurl>http://flexicontent.org</packagerurl>
 	<description><![CDATA[<div style="text-align: left;">
-<h3>Flexicontent! Traduction Française de Flexicontent version 3.3]]></description>
+<h3>Flexicontent! Traduction Française de Flexicontent]]></description>
 	<fileset>
 
 		<!-- Front-end -->
