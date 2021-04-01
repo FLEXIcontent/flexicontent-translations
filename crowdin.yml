@@ -16,7 +16,7 @@ files:
   - source: /plugins/finder/flexicontent/*.ini
     translation: /plugins/finder/flexicontent/%locale%/%locale%.%file_name%.ini
   - source: /plugins/flexicontent/flexinotify/*.ini
-    translation: /plugins/flexicontent/flexinotify/%locale%.%file_name%.ini
+    translation: /plugins/flexicontent/flexinotify/%locale%/%locale%.%file_name%.ini
   - source: /plugins/osmap/com_flexicontent/*.ini
     translation: /plugins/osmap/com_flexicontent/%locale%.%file_name%.ini
   - source: /plugins/search/**/*.ini
