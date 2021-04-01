@@ -14,7 +14,7 @@ files:
   - source: /plugins/content/flexibreak/*.ini
     translation: /plugins/content/flexibreak/%locale%/%locale%.%file_name%.ini
   - source: /plugins/finder/flexicontent/*.ini
-    translation: /plugins/finder/flexicontent/%locale%.%file_name%.ini
+    translation: /plugins/finder/flexicontent/%locale%/%locale%.%file_name%.ini
   - source: /plugins/flexicontent/flexinotify/*.ini
     translation: /plugins/flexicontent/flexinotify/%locale%.%file_name%.ini
   - source: /plugins/osmap/com_flexicontent/*.ini
@@ -22,6 +22,6 @@ files:
   - source: /plugins/search/**/*.ini
     translation: /plugins/search/**/%locale%.%file_name%.ini
   - source: /plugins/system/**/*.ini
-    translation: /plugins/system/**/%locale%.%file_name%.ini
+    translation: /plugins/system/**/%locale%/%locale%.%file_name%.ini
   - source: /plugins/flexicontent_fields/**/*.ini
     translation: /plugins/flexicontent_fields/**/%locale%.%file_name%.ini
