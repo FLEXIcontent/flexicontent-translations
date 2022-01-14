@@ -19,193 +19,193 @@
 		<files folder="site/language/pt-BR" target="language/pt-BR">
 			<filename>pt-BR.com_flexicontent.ini</filename>
 		</files>
-		<files folder="site/templates/faq/language/en-GB" target="components/com_flexicontent/templates/faq/language/en-GB">
-			<filename>en-GB.faq.ini</filename>
+		<files folder="site/templates/faq/language/pt-BR" target="components/com_flexicontent/templates/faq/language/pt-BR">
+			<filename>pt-BR.faq.ini</filename>
 		</files>
-		<files folder="site/templates/items-tabbed/language/en-GB" target="components/com_flexicontent/templates/items-tabbed/language/en-GB">
-			<filename>en-GB.items-tabbed.ini</filename>
+		<files folder="site/templates/items-tabbed/language/pt-BR" target="components/com_flexicontent/templates/items-tabbed/language/pt-BR">
+			<filename>pt-BR.items-tabbed.ini</filename>
 		</files>
-		<files folder="site/templates/grid/language/en-GB" target="components/com_flexicontent/templates/grid/language/en-GB">
-			<filename>en-GB.grid.ini</filename>
+		<files folder="site/templates/grid/language/pt-BR" target="components/com_flexicontent/templates/grid/language/pt-BR">
+			<filename>pt-BR.grid.ini</filename>
 		</files>
-		<files folder="site/templates/table/language/en-GB" target="components/com_flexicontent/templates/table/language/en-GB">
-			<filename>en-GB.table.ini</filename>
+		<files folder="site/templates/table/language/pt-BR" target="components/com_flexicontent/templates/table/language/pt-BR">
+			<filename>pt-BR.table.ini</filename>
 		</files>
 
 		<!-- Backend-end -->
-		<files folder="admin/language/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.com_flexicontent.ini</filename>
-			<filename>en-GB.com_flexicontent.ini</filename>
+		<files folder="admin/language/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.com_flexicontent.ini</filename>
+			<filename>pt-BR.com_flexicontent.ini</filename>
 		</files>
 
 		<!-- Modules -->
-		<files folder="modules/mod_flexiadvsearch/language/en-GB" target="language/en-GB">
-			<filename>en-GB.mod_flexiadvsearch.ini</filename>
-			<filename>en-GB.mod_flexiadvsearch.sys.ini</filename>
+		<files folder="modules/mod_flexiadvsearch/language/pt-BR" target="language/pt-BR">
+			<filename>pt-BR.mod_flexiadvsearch.ini</filename>
+			<filename>pt-BR.mod_flexiadvsearch.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexicategories/language/en-GB" target="language/en-GB">
-			<filename>en-GB.mod_flexicategories.ini</filename>
-			<filename>en-GB.mod_flexicategories.sys.ini</filename>
+		<files folder="modules/mod_flexicategories/language/pt-BR" target="language/pt-BR">
+			<filename>pt-BR.mod_flexicategories.ini</filename>
+			<filename>pt-BR.mod_flexicategories.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexicontent/language/en-GB" target="language/en-GB">
-			<filename>en-GB.mod_flexicontent.ini</filename>
-			<filename>en-GB.mod_flexicontent.sys.ini</filename>
+		<files folder="modules/mod_flexicontent/language/pt-BR" target="language/pt-BR">
+			<filename>pt-BR.mod_flexicontent.ini</filename>
+			<filename>pt-BR.mod_flexicontent.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexifilter/language/en-GB" target="language/pt-BR">
-			<filename>en-GB.mod_flexifilter.ini</filename>
-			<filename>en-GB.mod_flexifilter.sys.ini</filename>
+		<files folder="modules/mod_flexifilter/language/pt-BR" target="language/pt-BR">
+			<filename>pt-BR.mod_flexifilter.ini</filename>
+			<filename>pt-BR.mod_flexifilter.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexigooglemap/language/en-GB" target="language/pt-BR">
-			<filename>en-GB.mod_flexigooglemap.ini</filename>
-			<filename>en-GB.mod_flexigooglemap.sys.ini</filename>
+		<files folder="modules/mod_flexigooglemap/language/pt-BR" target="language/pt-BR">
+			<filename>pt-BR.mod_flexigooglemap.ini</filename>
+			<filename>pt-BR.mod_flexigooglemap.sys.ini</filename>
 		</files>
-		<files folder="modules/mod_flexitagcloud/language/en-GB" target="language/pt-BR">
-			<filename>en-GB.mod_flexitagcloud.ini</filename>
-			<filename>en-GB.mod_flexitagcloud.sys.ini</filename>
+		<files folder="modules/mod_flexitagcloud/language/pt-BR" target="language/pt-BR">
+			<filename>pt-BR.mod_flexitagcloud.ini</filename>
+			<filename>pt-BR.mod_flexitagcloud.sys.ini</filename>
 		</files>
 
 		<!-- Plugins system -->
-		<files folder="plugins/content/flexibreak/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_content_flexibreak.ini</filename>
-			<filename>en-GB.plg_content_flexibreak.sys.ini</filename>
+		<files folder="plugins/content/flexibreak/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_content_flexibreak.ini</filename>
+			<filename>pt-BR.plg_content_flexibreak.sys.ini</filename>
 		</files>
-		<files folder="plugins/finder/flexicontent/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_finder_flexicontent.ini</filename>
-			<filename>en-GB.plg_finder_flexicontent.sys.ini</filename>
+		<files folder="plugins/finder/flexicontent/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_finder_flexicontent.ini</filename>
+			<filename>pt-BR.plg_finder_flexicontent.sys.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent/flexinotify/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_flexinotify.ini</filename>
-			<filename>en-GB.plg_flexicontent_flexinotify.sys.ini</filename>
+		<files folder="plugins/flexicontent/flexinotify/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_flexinotify.ini</filename>
+			<filename>pt-BR.plg_flexicontent_flexinotify.sys.ini</filename>
 		</files>
-		<files folder="plugins/osmap/com_flexicontent/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_osmap_com_flexicontent.ini</filename>
+		<files folder="plugins/osmap/com_flexicontent/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_osmap_com_flexicontent.ini</filename>
 		</files>
-		<files folder="plugins/search/flexiadvsearch/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_search_flexiadvsearch.ini</filename>
-			<filename>en-GB.plg_search_flexiadvsearch.sys.ini</filename>
+		<files folder="plugins/search/flexiadvsearch/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_search_flexiadvsearch.ini</filename>
+			<filename>pt-BR.plg_search_flexiadvsearch.sys.ini</filename>
 		</files>
-		<files folder="plugins/search/flexisearch/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_search_flexisearch.ini</filename>
-			<filename>en-GB.plg_search_flexisearch.sys.ini</filename>
+		<files folder="plugins/search/flexisearch/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_search_flexisearch.ini</filename>
+			<filename>pt-BR.plg_search_flexisearch.sys.ini</filename>
 		</files>
-		<files folder="plugins/system/flexiadvroute/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_system_flexiadvroute.ini</filename>
+		<files folder="plugins/system/flexiadvroute/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_system_flexiadvroute.ini</filename>
 		</files>
-		<files folder="plugins/system/flexisystem/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_system_flexisystem.ini</filename>
-			<filename>en-GB.plg_system_flexisystem_common_be.ini</filename>
+		<files folder="plugins/system/flexisystem/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_system_flexisystem.ini</filename>
+			<filename>pt-BR.plg_system_flexisystem_common_be.ini</filename>
 		</files>
 		<files folder="plugins/editors-xtd/fccat" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_editors-xtd_fccat.ini</filename>
-			<filename>en-GB.plg_editors-xtd_fccat.sys.ini</filename>
+			<filename>pt-BR.plg_editors-xtd_module.ini</filename>
+			<filename>pt-BR.plg_editors-xtd_module.sys.ini</filename>
 		</files>
 		<files folder="plugins/editors-xtd/fcitem" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_editors-xtd_fcitem.ini</filename>
-			<filename>en-GB.plg_editors-xtd_fcitem.sys.ini</filename>
+			<filename>pt-BR.plg_finder_categories.ini</filename>
+			<filename>pt-BR.plg_finder_categories.sys.ini</filename>
 		</files>
 
 		<!-- Plugins flexicontent -->
-		<files folder="plugins/flexicontent_fields/account_via_submit/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_flexicontent_fields_account_via_submit.ini</filename>
+		<files folder="plugins/flexicontent_fields/account_via_submit/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_fields_account_via_submit.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/addressint/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_flexicontent_fields_addressint.ini</filename>
+		<files folder="plugins/flexicontent_fields/addressint/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_fields_addressint.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/authoritems/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_flexicontent_fields_authoritems.ini</filename>
+		<files folder="plugins/flexicontent_fields/authoritems/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_fields_authoritems.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/checkbox/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_flexicontent_fields_checkbox.ini</filename>
+		<files folder="plugins/flexicontent_fields/checkbox/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_fields_checkbox.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/checkboximage/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_flexicontent_fields_checkboximage.ini</filename>
+		<files folder="plugins/flexicontent_fields/checkboximage/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_fields_checkboximage.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/color/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_flexicontent_fields_color.ini</filename>
+		<files folder="plugins/flexicontent_fields/color/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_fields_color.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/comments/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_flexicontent_fields_comments.ini</filename>
+		<files folder="plugins/flexicontent_fields/comments/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_fields_comments.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/core/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_flexicontent_fields_core.ini</filename>
+		<files folder="plugins/flexicontent_fields/core/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_fields_core.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/coreprops/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_flexicontent_fields_coreprops.ini</filename>
+		<files folder="plugins/flexicontent_fields/coreprops/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_fields_coreprops.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/date/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_flexicontent_fields_date.ini</filename>
+		<files folder="plugins/flexicontent_fields/date/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_fields_date.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/email/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_flexicontent_fields_email.ini</filename>
+		<files folder="plugins/flexicontent_fields/email/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_fields_email.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/fcloadmodule/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_flexicontent_fields_fcloadmodule.ini</filename>
+		<files folder="plugins/flexicontent_fields/fcloadmodule/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_fields_fcloadmodule.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/fcpagenav/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_flexicontent_fields_fcpagenav.ini</filename>
+		<files folder="plugins/flexicontent_fields/fcpagenav/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_fields_fcpagenav.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/fieldgroup/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_flexicontent_fields_fieldgroup.ini</filename>
+		<files folder="plugins/flexicontent_fields/fieldgroup/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_fields_fieldgroup.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/file/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_flexicontent_fields_file.ini</filename>
+		<files folder="plugins/flexicontent_fields/file/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_fields_file.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/groupmarker/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_flexicontent_fields_groupmarker.ini</filename>
+		<files folder="plugins/flexicontent_fields/groupmarker/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_fields_groupmarker.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/image/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_flexicontent_fields_image.ini</filename>
+		<files folder="plugins/flexicontent_fields/image/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_fields_image.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/jprofile/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_flexicontent_fields_jprofile.ini</filename>
+		<files folder="plugins/flexicontent_fields/jprofile/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_fields_jprofile.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/linkslist/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_flexicontent_fields_linkslist.ini</filename>
+		<files folder="plugins/flexicontent_fields/linkslist/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_fields_linkslist.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/minigallery/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_flexicontent_fields_minigallery.ini</filename>
+		<files folder="plugins/flexicontent_fields/minigallery/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_fields_minigallery.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/phonenumbers/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_flexicontent_fields_phonenumbers.ini</filename>
+		<files folder="plugins/flexicontent_fields/phonenumbers/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_fields_phonenumbers.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/radio/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_flexicontent_fields_radio.ini</filename>
+		<files folder="plugins/flexicontent_fields/radio/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_fields_radio.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/radioimage/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_flexicontent_fields_radioimage.ini</filename>
+		<files folder="plugins/flexicontent_fields/radioimage/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_fields_radioimage.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/relation/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_flexicontent_fields_relation.ini</filename>
+		<files folder="plugins/flexicontent_fields/relation/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_fields_relation.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/relation_reverse/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_flexicontent_fields_relation_reverse.ini</filename>
+		<files folder="plugins/flexicontent_fields/relation_reverse/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_fields_relation_reverse.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/select/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_flexicontent_fields_select.ini</filename>
+		<files folder="plugins/flexicontent_fields/select/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_fields_select.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/selectmultiple/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_flexicontent_fields_selectmultiple.ini</filename>
+		<files folder="plugins/flexicontent_fields/selectmultiple/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_fields_selectmultiple.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/sharedmedia/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_flexicontent_fields_sharedmedia.ini</filename>
+		<files folder="plugins/flexicontent_fields/sharedmedia/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_fields_sharedmedia.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/termlist/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_flexicontent_fields_termlist.ini</filename>
+		<files folder="plugins/flexicontent_fields/termlist/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_fields_termlist.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/text/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_flexicontent_fields_text.ini</filename>
+		<files folder="plugins/flexicontent_fields/text/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_fields_text.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/textarea/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_flexicontent_fields_textarea.ini</filename>
+		<files folder="plugins/flexicontent_fields/textarea/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_fields_textarea.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/textselect/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_flexicontent_fields_textselect.ini</filename>
+		<files folder="plugins/flexicontent_fields/textselect/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_fields_textselect.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/toolbar/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_flexicontent_fields_toolbar.ini</filename>
+		<files folder="plugins/flexicontent_fields/toolbar/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_fields_toolbar.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/weblink/en-GB" target="administrator/language/pt-BR">
-			<filename>en-GB.plg_flexicontent_fields_weblink.ini</filename>
+		<files folder="plugins/flexicontent_fields/weblink/pt-BR" target="administrator/language/pt-BR">
+			<filename>pt-BR.plg_flexicontent_fields_weblink.ini</filename>
 		</files>
 		</fileset>
 	<updateservers>
