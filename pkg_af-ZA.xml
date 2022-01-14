@@ -19,20 +19,11 @@
 		<files folder="site/language/en-GB" target="language/en-GB">
 			<filename>en-GB.com_flexicontent.ini</filename>
 		</files>
-		<files folder="site/templates/blog/language/en-GB" target="components/com_flexicontent/templates/blog/language/en-GB">
-			<filename>en-GB.blog.ini</filename>
-		</files>
-		<files folder="site/templates/default/language/en-GB" target="components/com_flexicontent/templates/default/language/en-GB">
-			<filename>en-GB.default.ini</filename>
-		</files>
 		<files folder="site/templates/faq/language/en-GB" target="components/com_flexicontent/templates/faq/language/en-GB">
 			<filename>en-GB.faq.ini</filename>
 		</files>
 		<files folder="site/templates/items-tabbed/language/en-GB" target="components/com_flexicontent/templates/items-tabbed/language/en-GB">
 			<filename>en-GB.items-tabbed.ini</filename>
-		</files>
-		<files folder="site/templates/presentation/language/en-GB" target="components/com_flexicontent/templates/presentation/language/en-GB">
-			<filename>en-GB.presentation.ini</filename>
 		</files>
 		<files folder="site/templates/grid/language/en-GB" target="components/com_flexicontent/templates/grid/language/en-GB">
 			<filename>en-GB.grid.ini</filename>
