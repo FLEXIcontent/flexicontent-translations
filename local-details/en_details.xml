@@ -4,7 +4,7 @@
 <description>English Translation of Flexicontent</description>
 <element>pkg_en</element>
 <type>package</type>
-<version>3.4</version>
+<version>3.5</version>
 <downloads>
 <downloadurl type="full" format="zip">
 https://crowdin.com/backend/download/project/flexicontent-cck-for-joomla/en.zip

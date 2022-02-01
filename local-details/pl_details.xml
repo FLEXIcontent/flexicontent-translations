@@ -4,7 +4,7 @@
 <description>Polish Translation of Flexicontent</description>
 <element>pkg_pl</element>
 <type>package</type>
-<version>3.4</version>
+<version>3.5</version>
 <downloads>
 <downloadurl type="full" format="zip">
 https://crowdin.com/backend/download/project/flexicontent-cck-for-joomla/pl.zip
