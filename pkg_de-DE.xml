@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension type="file" version="3.2" method="upgrade">
 	<name>Deutsches Paket für Flexicontent</name>
-	<version>3.3.5</version>
+	<version>3.5</version>
 	<creationDate/>
 	<author>Flexicontent.org</author>
 	<authorEmail>traduction@flexicontent.org</authorEmail>
 	<authorUrl>http://flexicontent.org</authorUrl>
-	<copyright>© 2019 Flexicontent</copyright>
+	<copyright>© 2022 Flexicontent</copyright>
 	<license>https://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
 	<url/>
 	<packager>flexicontent.org</packager>
