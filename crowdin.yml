@@ -24,3 +24,5 @@ files:
     translation: /plugins/system/**/%locale%/%locale%.%file_name%.ini
   - source: /plugins/flexicontent_fields/**/*.ini
     translation: /plugins/flexicontent_fields/**/%locale%/%locale%.%file_name%.ini
+  - source: /modules/**/language/*.ini
+    translation: /modules/**/%locale%/%locale%.%file_name%.ini
