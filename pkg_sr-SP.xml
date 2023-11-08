@@ -1,215 +1,215 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<extension type="file" version="3.2" method="upgrade">
-	<name>English package for Flexicontent</name>
+<extension type="фајл" version="3.2" method="надоградити">
+	<name>Енглески пакет за Флекицонтент</name>
 	<version>3.6</version>
 	<creationDate/>
-	<author>Flexicontent.org</author>
-	<authorEmail>traduction@Flexicontent.org</authorEmail>
-	<authorUrl>http://flexicontent.org</authorUrl>
-	<copyright>© 2019 Flexicontent</copyright>
-	<license>https://www.GNU.org/licenses/GPL-2.0.html GNU/GPL</license>
+	<author>Флекицонтент.орг</author>
+	<authorEmail>традуцтион@Флекицонтент.орг</authorEmail>
+	<authorUrl>хттп://флекицонтент.орг</authorUrl>
+	<copyright>© 2019 Флекицонтент</copyright>
+	<license>хттпс://ввв.ГНУ.орг/лиценсес/ГПЛ-2.0.хтмл ГНУ/ГПЛ</license>
 	<url/>
-	<packager>flexicontent.org</packager>
-	<packagerurl>http://flexicontent.org</packagerurl>
+	<packager>флекицонтент.орг</packager>
+	<packagerurl>хттп://флекицонтент.орг</packagerurl>
 	<description><![CDATA[<div style="text-align: left;">
-<h3>Flexicontent! 3.3 English translation (en-GB) Version 3.3]]></description>
+<h3>Флекицонтент! 3.3 Превод на енглески (ен-ГБ) Верзија 3.3]]></description>
 	<fileset>
 
 		<!-- Front-end -->
-		<files folder="site/language/en-GB" target="language/en-GB">
-			<filename>en-GB.com_flexicontent.ini</filename>
+		<files folder="сајт/језик/ен-ГБ" target="лангуаге/ен-ГБ">
+			<filename>ен-ГБ.цом_флекицонтент.ини</filename>
 		</files>
-		<files folder="site/templates/faq/language/en-GB" target="components/com_flexicontent/templates/faq/language/en-GB">
-			<filename>en-GB.faq.ini</filename>
+		<files folder="сите/темплатес/фак/лангуаге/ен-ГБ" target="компоненте/цом_флекицонтент/темплатес/фак/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.фак.ини</filename>
 		</files>
-		<files folder="site/templates/items-tabbed/language/en-GB" target="components/com_flexicontent/templates/items-tabbed/language/en-GB">
-			<filename>en-GB.items-tabbed.ini</filename>
+		<files folder="сите/темплатес/итемс-таббед/лангуаге/ен-ГБ" target="компоненте/цом_флекицонтент/темплатес/итемс-таббед/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.итемс-таббед.ини</filename>
 		</files>
-		<files folder="site/templates/grid/language/en-GB" target="components/com_flexicontent/templates/grid/language/en-GB">
-			<filename>en-GB.grid.ini</filename>
+		<files folder="сите/темплатес/грид/лангуаге/ен-ГБ" target="компоненте/цом_флекицонтент/темплатес/грид/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.грид.ини</filename>
 		</files>
-		<files folder="site/templates/table/language/en-GB" target="components/com_flexicontent/templates/table/language/en-GB">
-			<filename>en-GB.table.ini</filename>
+		<files folder="сите/темплатес/табле/лангуаге/ен-ГБ" target="компоненте/цом_флекицонтент/темплатес/табле/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.табле.ини</filename>
 		</files>
 
 		<!-- Backend-end -->
-		<files folder="admin/language/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.com_flexicontent.ini</filename>
-			<filename>en-GB.com_flexicontent.ini</filename>
+		<files folder="админ/лангуаге/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.цом_флекицонтент.ини</filename>
+			<filename>ен-ГБ.цом_флекицонтент.ини</filename>
 		</files>
 
 		<!-- Modules -->
-		<files folder="modules/mod_flexiadvsearch/language/en-GB" target="language/en-GB">
-			<filename>en-GB.mod_flexiadvsearch.ini</filename>
-			<filename>en-GB.mod_flexiadvsearch.sys.ini</filename>
+		<files folder="модулес/мод_флекиадвсеарцх/лангуаге/ен-ГБ" target="лангуаге/ен-ГБ">
+			<filename>ен-ГБ.мод_флекиадвсеарцх.ини</filename>
+			<filename>ен-ГБ.мод_флекиадвсеарцх.сис.ини</filename>
 		</files>
-		<files folder="modules/mod_flexicategories/language/en-GB" target="language/en-GB">
-			<filename>en-GB.mod_flexicategories.ini</filename>
-			<filename>en-GB.mod_flexicategories.sys.ini</filename>
+		<files folder="модулес/мод_флекицатегориес/лангуаге/ен-ГБ" target="лангуаге/ен-ГБ">
+			<filename>ен-ГБ.мод_флекицатегориес.ини</filename>
+			<filename>ен-ГБ.мод_флекицатегориес.сис.ини</filename>
 		</files>
-		<files folder="modules/mod_flexicontent/language/en-GB" target="language/en-GB">
-			<filename>en-GB.mod_flexicontent.ini</filename>
-			<filename>en-GB.mod_flexicontent.sys.ini</filename>
+		<files folder="модулес/мод_флекицонтент/лангуаге/ен-ГБ" target="лангуаге/ен-ГБ">
+			<filename>ен-ГБ.мод_флекицонтент.ини</filename>
+			<filename>ен-ГБ.мод_флекицонтент.сис.ини</filename>
 		</files>
-		<files folder="modules/mod_flexifilter/language/en-GB" target="language/en-GB">
-			<filename>en-GB.mod_flexifilter.ini</filename>
-			<filename>en-GB.mod_flexifilter.sys.ini</filename>
+		<files folder="модулес/мод_флекифилтер/лангуаге/ен-ГБ" target="лангуаге/ен-ГБ">
+			<filename>ен-ГБ.мод_флекифилтер.ини</filename>
+			<filename>ен-ГБ.мод_флекифилтер.сис.ини</filename>
 		</files>
-		<files folder="modules/mod_flexigooglemap/language/en-GB" target="language/en-GB">
-			<filename>en-GB.mod_flexigooglemap.ini</filename>
-			<filename>en-GB.mod_flexigooglemap.sys.ini</filename>
+		<files folder="модулес/мод_флекигооглемап/лангуаге/ен-ГБ" target="лангуаге/ен-ГБ">
+			<filename>ен-ГБ.мод_флекигооглемап.ини</filename>
+			<filename>ен-ГБ.мод_флекигооглемап.сис.ини</filename>
 		</files>
-		<files folder="modules/mod_flexitagcloud/language/en-GB" target="language/en-GB">
-			<filename>en-GB.mod_flexitagcloud.ini</filename>
-			<filename>en-GB.mod_flexitagcloud.sys.ini</filename>
+		<files folder="модулес/мод_флекитагцлоуд/лангуаге/ен-ГБ" target="лангуаге/ен-ГБ">
+			<filename>ен-ГБ.мод_флекитагцлоуд.ини</filename>
+			<filename>ен-ГБ.мод_флекитагцлоуд.сис.ини</filename>
 		</files>
 
 		<!-- Plugins system -->
-		<files folder="plugins/content/flexibreak/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_content_flexibreak.ini</filename>
-			<filename>en-GB.plg_content_flexibreak.sys.ini</filename>
+		<files folder="плугинс/цонтент/флекибреак/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_цонтент_флекибреак.ини</filename>
+			<filename>ен-ГБ.плг_цонтент_флекибреак.сис.ини</filename>
 		</files>
-		<files folder="plugins/finder/flexicontent/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_finder_flexicontent.ini</filename>
-			<filename>en-GB.plg_finder_flexicontent.sys.ini</filename>
+		<files folder="плугинс/финдер/флекицонтент/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_финдер_флекицонтент.ини</filename>
+			<filename>ен-ГБ.плг_финдер_флекицонтент.сис.ини</filename>
 		</files>
-		<files folder="plugins/flexicontent/flexinotify/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_flexinotify.ini</filename>
-			<filename>en-GB.plg_flexicontent_flexinotify.sys.ini</filename>
+		<files folder="плугинс/флекицонтент/флекинотифи/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_флекинотифи.ини</filename>
+			<filename>ен-ГБ.плг_флекицонтент_флекинотифи.сис.ини</filename>
 		</files>
-		<files folder="plugins/osmap/com_flexicontent/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_osmap_com_flexicontent.ini</filename>
+		<files folder="плугинс/осмап/цом_флекицонтент/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_осмап_цом_флекицонтент.ини</filename>
 		</files>
-		<files folder="plugins/search/flexiadvsearch/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_search_flexiadvsearch.ini</filename>
-			<filename>en-GB.plg_search_flexiadvsearch.sys.ini</filename>
+		<files folder="плугинс/сеарцх/флекиадвсеарцх/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_сеарцх_флекиадвсеарцх.ини</filename>
+			<filename>ен-ГБ.плг_сеарцх_флекиадвсеарцх.сис.ини</filename>
 		</files>
-		<files folder="plugins/search/flexisearch/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_search_flexisearch.ini</filename>
-			<filename>en-GB.plg_search_flexisearch.sys.ini</filename>
+		<files folder="плугинс/сеарцх/флекисеарцх/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_сеарцх_флекисеарцх.ини</filename>
+			<filename>ен-ГБ.плг_сеарцх_флекисеарцх.сис.ини</filename>
 		</files>
-		<files folder="plugins/system/flexiadvroute/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_system_flexiadvroute.ini</filename>
+		<files folder="плугинс/систем/флекиадвроуте/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_систем_флекиадвроуте.ини</filename>
 		</files>
-		<files folder="plugins/system/flexisystem/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_system_flexisystem.ini</filename>
-			<filename>en-GB.plg_system_flexisystem_common_be.ini</filename>
+		<files folder="плугинс/систем/флекисистем/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_систем_флекисистем.ини</filename>
+			<filename>ен-ГБ.плг_систем_флекисистем_цоммон_бе.ини</filename>
 		</files>
-		<files folder="plugins/editors-xtd/fccat" target="administrator/language/en-GB">
-			<filename>en-GB.plg_editors-xtd_fccat.ini</filename>
-			<filename>en-GB.plg_editors-xtd_fccat.sys.ini</filename>
+		<files folder="плугинс/едиторс-ктд/фццат" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_едиторс-ктд_фццат.ини</filename>
+			<filename>ен-ГБ.плг_едиторс-ктд_фццат.сис.ини</filename>
 		</files>
-		<files folder="plugins/editors-xtd/fcitem" target="administrator/language/en-GB">
-			<filename>en-GB.plg_editors-xtd_fcitem.ini</filename>
-			<filename>en-GB.plg_editors-xtd_fcitem.sys.ini</filename>
+		<files folder="плугинс/едиторс-ктд/фцитем" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_едиторс-ктд_фцитем.ини</filename>
+			<filename>ен-ГБ.плг_едиторс-ктд_фцитем.сис.ини</filename>
 		</files>
 
 		<!-- Plugins flexicontent -->
-		<files folder="plugins/flexicontent_fields/account_via_submit/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_account_via_submit.ini</filename>
+		<files folder="плугинс/флекицонтент_фиелдс/аццоунт_виа_субмит/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_фиелдс_аццоунт_виа_субмит.ини</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/addressint/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_addressint.ini</filename>
+		<files folder="плугинс/флекицонтент_фиелдс/аддрессинт/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_фиелдс_аддрессинт.ини</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/authoritems/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_authoritems.ini</filename>
+		<files folder="плугинс/флекицонтент_фиелдс/аутхоритемс/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_фиелдс_аутхоритемс.ини</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/checkbox/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_checkbox.ini</filename>
+		<files folder="плугинс/флекицонтент_фиелдс/цхецкбок/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_фиелдс_цхецкбок.ини</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/checkboximage/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_checkboximage.ini</filename>
+		<files folder="плугинс/флекицонтент_фиелдс/цхецкбокимаге/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_фиелдс_цхецкбокимаге.ини</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/color/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_color.ini</filename>
+		<files folder="плугинс/флекицонтент_фиелдс/цолор/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_фиелдс_цолор.ини</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/comments/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_comments.ini</filename>
+		<files folder="плугинс/флекицонтент_фиелдс/цомментс/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_фиелдс_цомментс.ини</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/core/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_core.ini</filename>
+		<files folder="плугинс/флекицонтент_фиелдс/цоре/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_фиелдс_цоре.ини</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/coreprops/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_coreprops.ini</filename>
+		<files folder="плугинс/флекицонтент_фиелдс/цорепропс/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_фиелдс_цорепропс.ини</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/date/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_date.ini</filename>
+		<files folder="плугинс/флекицонтент_фиелдс/дате/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_фиелдс_дате.ини</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/email/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_email.ini</filename>
+		<files folder="плугинс/флекицонтент_фиелдс/емаил/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_фиелдс_емаил.ини</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/fcloadmodule/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_fcloadmodule.ini</filename>
+		<files folder="плугинс/флекицонтент_фиелдс/фцлоадмодуле/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_фиелдс_фцлоадмодуле.ини</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/fcpagenav/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_fcpagenav.ini</filename>
+		<files folder="плугинс/флекицонтент_фиелдс/фцпагенав/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_фиелдс_фцпагенав.ини</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/fieldgroup/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_fieldgroup.ini</filename>
+		<files folder="плугинс/флекицонтент_фиелдс/фиелдгроуп/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_фиелдс_фиелдгроуп.ини</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/file/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_file.ini</filename>
+		<files folder="плугинс/флекицонтент_фиелдс/филе/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_фиелдс_филе.ини</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/groupmarker/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_groupmarker.ini</filename>
+		<files folder="плугинс/флекицонтент_фиелдс/гроупмаркер/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_фиелдс_гроупмаркер.ини</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/image/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_image.ini</filename>
+		<files folder="плугинс/флекицонтент_фиелдс/имаге/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_фиелдс_имаге.ини</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/jprofile/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_jprofile.ini</filename>
+		<files folder="плугинс/флекицонтент_фиелдс/јпрофиле/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_фиелдс_јпрофиле.ини</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/linkslist/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_linkslist.ini</filename>
+		<files folder="плугинс/флекицонтент_фиелдс/линкслист/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_фиелдс_линкслист.ини</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/minigallery/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_minigallery.ini</filename>
+		<files folder="плугинс/флекицонтент_фиелдс/минигаллери/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_фиелдс_минигаллери.ини</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/phonenumbers/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_phonenumbers.ini</filename>
+		<files folder="плугинс/флекицонтент_фиелдс/пхоненумберс/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_фиелдс_пхоненумберс.ини</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/radio/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_radio.ini</filename>
+		<files folder="плугинс/флекицонтент_фиелдс/радио/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_фиелдс_радио.ини</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/radioimage/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_radioimage.ini</filename>
+		<files folder="плугинс/флекицонтент_фиелдс/радиоимаге/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_фиелдс_радиоимаге.ини</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/relation/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_relation.ini</filename>
+		<files folder="плугинс/флекицонтент_фиелдс/релатион/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_фиелдс_релатион.ини</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/relation_reverse/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_relation_reverse.ini</filename>
+		<files folder="плугинс/флекицонтент_фиелдс/релатион_реверсе/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_фиелдс_релатион_реверсе.ини</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/select/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_select.ini</filename>
+		<files folder="плугинс/флекицонтент_фиелдс/селецт/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_фиелдс_селецт.ини</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/selectmultiple/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_selectmultiple.ini</filename>
+		<files folder="плугинс/флекицонтент_фиелдс/селецтмултипле/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_фиелдс_селецтмултипле.ини</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/sharedmedia/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_sharedmedia.ini</filename>
+		<files folder="плугинс/флекицонтент_фиелдс/схаредмедиа/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_фиелдс_схаредмедиа.ини</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/termlist/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_termlist.ini</filename>
+		<files folder="плугинс/флекицонтент_фиелдс/термлист/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_фиелдс_термлист.ини</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/text/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_text.ini</filename>
+		<files folder="плугинс/флекицонтент_фиелдс/тект/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_фиелдс_тект.ини</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/textarea/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_textarea.ini</filename>
+		<files folder="плугинс/флекицонтент_фиелдс/тектареа/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_фиелдс_тектареа.ини</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/textselect/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_textselect.ini</filename>
+		<files folder="плугинс/флекицонтент_фиелдс/тектселецт/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_фиелдс_тектселецт.ини</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/toolbar/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_toolbar.ini</filename>
+		<files folder="плугинс/флекицонтент_фиелдс/тоолбар/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_фиелдс_тоолбар.ини</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/weblink/en-GB" target="administrator/language/en-GB">
-			<filename>en-GB.plg_flexicontent_fields_weblink.ini</filename>
+		<files folder="плугинс/флекицонтент_фиелдс/веблинк/ен-ГБ" target="администратор/лангуаге/ен-ГБ">
+			<filename>ен-ГБ.плг_флекицонтент_фиелдс_веблинк.ини</filename>
 		</files>
 		</fileset>
 	<updateservers>
-		<server type="collection" priority="1" name="English package for Flexicontent">
-https://raw.githubusercontent.com/FLEXIcontent/flexicontent-translations/master/translationlist_flexicontent.xml</server>
+		<server type="збирка" priority="1" name="Енглески пакет за Флекицонтент">
+хттпс://рав.гитхубусерцонтент.цом/ФЛЕКСИцонтент/флекицонтент-транслатионс/мастер/транслатионлист_флекицонтент.кмл</server>
 	</updateservers>
 </extension>
