@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<extension type="fisier" version="3.2" method="actualizare">
+<extension type="file" version="3.2" method="actualizare">
 	<name>Pachet în limba engleză pentru Flexicontent</name>
 	<version>3.7</version>
 	<creationDate/>
@@ -12,7 +12,7 @@
 	<packager>flexicontent.org</packager>
 	<packagerurl>http://flexicontent.org</packagerurl>
 	<description><![CDATA[<div style="text-align: left;">
-<h3>Flexiconținut! 3.7 English translation (en-GB) Version 3.3]]></description>
+<h3>Flexiconținut! English translation (en-GB)]]></description>
 	<fileset>
 
 		<!-- Front-end -->
