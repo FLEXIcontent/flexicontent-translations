@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension type="crwdns26132:0crwdne26132:0" version="crwdns26134:0crwdne26134:0" method="crwdns26136:0crwdne26136:0">
 	<name>crwdns26524:0crwdne26524:0</name>
-	<version>crwdns216373:0crwdne216373:0</version>
+	<version>crwdns216382:0crwdne216382:0</version>
 	<creationDate/>
 	<author>crwdns26142:0crwdne26142:0</author>
 	<authorEmail>crwdns26144:0crwdne26144:0</authorEmail>
@@ -11,7 +11,7 @@
 	<url/>
 	<packager>crwdns26152:0crwdne26152:0</packager>
 	<packagerurl>crwdns26154:0crwdne26154:0</packagerurl>
-	<description><![CDATA[crwdns26156:0crwdne26156:0 crwdns26526:0crwdne26526:0]]></description>
+	<description><![CDATA[crwdns26156:0crwdne26156:0 crwdns216384:0crwdne216384:0]]></description>
 	<fileset>
 
 		<!-- Front-end -->
