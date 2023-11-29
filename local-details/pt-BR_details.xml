@@ -4,7 +4,7 @@
 <description>Portuguese, Brazilian Translation of Flexicontent</description>
 <element>pkg_pt-BR</element>
 <type>package</type>
-<version>3.7</version>
+<version>3.8</version>
 <downloads>
 <downloadurl type="full" format="zip">
 https://crowdin.com/backend/download/project/flexicontent-cck-for-joomla/pt-BR.zip
