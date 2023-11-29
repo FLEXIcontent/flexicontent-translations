@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension type="фајл" version="3.2" method="надоградити">
 	<name>Енглески пакет за Флекицонтент</name>
-	<version>3.6</version>
+	<version>3.7</version>
 	<creationDate/>
 	<author>Флекицонтент.орг</author>
 	<authorEmail>традуцтион@Флекицонтент.орг</authorEmail>
@@ -12,7 +12,7 @@
 	<packager>флекицонтент.орг</packager>
 	<packagerurl>хттп://флекицонтент.орг</packagerurl>
 	<description><![CDATA[<div style="text-align: left;">
-<h3>Флекицонтент! 3.3 Превод на енглески (ен-ГБ) Верзија 3.3]]></description>
+<h3>Флекицонтент! 3.7 English translation (en-GB) Version 3.3]]></description>
 	<fileset>
 
 		<!-- Front-end -->
