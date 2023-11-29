@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension type="档案" version="3.2" method="升级">
 	<name>Flexicontent 英文包</name>
-	<version>3.6</version>
+	<version>3.7</version>
 	<creationDate/>
 	<author>Flexicontent.org</author>
 	<authorEmail>traduction@Flexicontent.org</authorEmail>
@@ -12,7 +12,7 @@
 	<packager>flexicontent.org</packager>
 	<packagerurl>http://flexicontent.org</packagerurl>
 	<description><![CDATA[<div style="text-align: left;">
-<h3>灵活内容！ 3.3 英文翻译 (en-GB) 版本 3.3]]></description>
+<h3>灵活内容！ 3.7 English translation (en-GB) Version 3.3]]></description>
 	<fileset>
 
 		<!-- Front-end -->
