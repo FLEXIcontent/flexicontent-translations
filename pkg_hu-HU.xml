@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension type="fájl" version="3.2" method="frissíteni">
 	<name>Angol nyelvű csomag a Flexicontenthez</name>
-	<version>3.6</version>
+	<version>3.7</version>
 	<creationDate/>
 	<author>Flexicontent.org</author>
 	<authorEmail>traduction@Flexicontent.org</authorEmail>
@@ -12,7 +12,7 @@
 	<packager>flexicontent.org</packager>
 	<packagerurl>http://flexicontent.org</packagerurl>
 	<description><![CDATA[<div style="text-align: left;">
-<h3>Rugalmas tartalom! 3.3 Angol fordítás (en-GB) 3.3-as verzió]]></description>
+<h3>Rugalmas tartalom! 3.7 English translation (en-GB) Version 3.3]]></description>
 	<fileset>
 
 		<!-- Front-end -->
