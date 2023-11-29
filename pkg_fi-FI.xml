@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension type="tiedosto" version="3.2" method="päivitys">
 	<name>Englanninkielinen paketti Flexicontentille</name>
-	<version>3.6</version>
+	<version>3.7</version>
 	<creationDate/>
 	<author>Flexicontent.org</author>
 	<authorEmail>traduction@Flexicontent.org</authorEmail>
@@ -12,7 +12,7 @@
 	<packager>flexicontent.org</packager>
 	<packagerurl>http://flexicontent.org</packagerurl>
 	<description><![CDATA[<div style="text-align: left;">
-<h3>Joustava sisältö! 3.3 Englanninkielinen käännös (en-GB) Versio 3.3]]></description>
+<h3>Joustava sisältö! 3.7 English translation (en-GB) Version 3.3]]></description>
 	<fileset>
 
 		<!-- Front-end -->
