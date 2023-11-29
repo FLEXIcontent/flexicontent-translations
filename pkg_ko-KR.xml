@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension type="파일" version="3.2" method="업그레이드">
 	<name>Flexicontent 영어 패키지</name>
-	<version>3.6</version>
+	<version>3.7</version>
 	<creationDate/>
 	<author>Flexicontent.org</author>
 	<authorEmail>Traduction@Flexicontent.org</authorEmail>
@@ -12,7 +12,7 @@
 	<packager>flexicontent.org</packager>
 	<packagerurl>http://flexicontent.org</packagerurl>
 	<description><![CDATA[<div style="text-align: left;">
-<h3>플렉시컨텐츠! 3.3 영어 번역(en-GB) 버전 3.3]]></description>
+<h3>플렉시컨텐츠! 3.7 English translation (en-GB) Version 3.3]]></description>
 	<fileset>
 
 		<!-- Front-end -->
