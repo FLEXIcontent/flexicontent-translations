@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension type="파일" version="3.2" method="업그레이드">
 	<name>Flexicontent 영어 패키지</name>
-	<version>3.7</version>
+	<version>3.8</version>
 	<creationDate/>
 	<author>Flexicontent.org</author>
 	<authorEmail>Traduction@Flexicontent.org</authorEmail>
