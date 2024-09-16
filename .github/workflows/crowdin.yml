@@ -2,7 +2,7 @@ name: Crowdin Action
 
 on:
   workflow_dispatch:
-
+  
 jobs:
   synchronize-with-crowdin:
     runs-on: ubuntu-latest
