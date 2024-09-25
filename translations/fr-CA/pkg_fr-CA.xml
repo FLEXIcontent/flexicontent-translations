@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension type="crwdns241250:0crwdne241250:0" version="crwdns241252:0crwdne241252:0" method="crwdns241254:0crwdne241254:0">
+	<name>crwdns26524:0crwdne26524:0</name>
+	<version>crwdns216388:0crwdne216388:0</version>
+	<creationDate/>
+	<author>crwdns26142:0crwdne26142:0</author>
+	<authorEmail>crwdns26144:0crwdne26144:0</authorEmail>
+	<authorUrl>crwdns26146:0crwdne26146:0</authorUrl>
+	<copyright>crwdns26148:0crwdne26148:0</copyright>
+	<license>crwdns26150:0crwdne26150:0</license>
+	<url/>
+	<packager>crwdns26152:0crwdne26152:0</packager>
+	<packagerurl>crwdns26154:0crwdne26154:0</packagerurl>
+	<description><![CDATA[crwdns26156:0crwdne26156:0 crwdns216386:0crwdne216386:0]]></description>
+	<fileset>
+
+		<!-- Front-end -->
+		<files folder="crwdns241256:0crwdne241256:0" target="crwdns241258:0crwdne241258:0">
+			<filename>crwdns26532:0crwdne26532:0</filename>
+		</files>
+		<files folder="crwdns241260:0crwdne241260:0" target="crwdns241262:0crwdne241262:0">
+			<filename>crwdns215767:0crwdne215767:0</filename>
+		</files>
+		<files folder="crwdns241264:0crwdne241264:0" target="crwdns241266:0crwdne241266:0">
+			<filename>crwdns215773:0crwdne215773:0</filename>
+		</files>
+		<files folder="crwdns241268:0crwdne241268:0" target="crwdns241270:0crwdne241270:0">
+			<filename>crwdns215779:0crwdne215779:0</filename>
+		</files>
+		<files folder="crwdns241272:0crwdne241272:0" target="crwdns241274:0crwdne241274:0">
+			<filename>crwdns215785:0crwdne215785:0</filename>
+		</files>
+
+		<!-- Backend-end -->
+		<files folder="crwdns241276:0crwdne241276:0" target="crwdns241278:0crwdne241278:0">
+			<filename>crwdns215791:0crwdne215791:0</filename>
+			<filename>crwdns215793:0crwdne215793:0</filename>
+		</files>
+
+		<!-- Modules -->
+		<files folder="crwdns241280:0crwdne241280:0" target="crwdns241282:0crwdne241282:0">
+			<filename>crwdns215799:0crwdne215799:0</filename>
+			<filename>crwdns215801:0crwdne215801:0</filename>
+		</files>
+		<files folder="crwdns241284:0crwdne241284:0" target="crwdns241286:0crwdne241286:0">
+			<filename>crwdns215807:0crwdne215807:0</filename>
+			<filename>crwdns215809:0crwdne215809:0</filename>
+		</files>
+		<files folder="crwdns241288:0crwdne241288:0" target="crwdns241290:0crwdne241290:0">
+			<filename>crwdns215815:0crwdne215815:0</filename>
+			<filename>crwdns215817:0crwdne215817:0</filename>
+		</files>
+		<files folder="crwdns241292:0crwdne241292:0" target="crwdns241294:0crwdne241294:0">
+			<filename>crwdns215821:0crwdne215821:0</filename>
+			<filename>crwdns215823:0crwdne215823:0</filename>
+		</files>
+		<files folder="crwdns241296:0crwdne241296:0" target="crwdns241298:0crwdne241298:0">
+			<filename>crwdns215827:0crwdne215827:0</filename>
+			<filename>crwdns215829:0crwdne215829:0</filename>
+		</files>
+		<files folder="crwdns241300:0crwdne241300:0" target="crwdns241302:0crwdne241302:0">
+			<filename>crwdns215833:0crwdne215833:0</filename>
+			<filename>crwdns215835:0crwdne215835:0</filename>
+		</files>
+
+		<!-- Plugins system -->
+		<files folder="crwdns241486:0crwdne241486:0" target="crwdns241306:0crwdne241306:0">
+			<filename>crwdns215841:0crwdne215841:0</filename>
+			<filename>crwdns215843:0crwdne215843:0</filename>
+		</files>
+		<files folder="crwdns241488:0crwdne241488:0" target="crwdns241310:0crwdne241310:0">
+			<filename>crwdns215849:0crwdne215849:0</filename>
+			<filename>crwdns215851:0crwdne215851:0</filename>
+		</files>
+		<files folder="crwdns241490:0crwdne241490:0" target="crwdns241314:0crwdne241314:0">
+			<filename>crwdns215857:0crwdne215857:0</filename>
+			<filename>crwdns215859:0crwdne215859:0</filename>
+		</files>
+		<files folder="crwdns241492:0crwdne241492:0" target="crwdns241318:0crwdne241318:0">
+			<filename>crwdns215863:0crwdne215863:0</filename>
+		</files>
+		<files folder="crwdns241494:0crwdne241494:0" target="crwdns241322:0crwdne241322:0">
+			<filename>crwdns215867:0crwdne215867:0</filename>
+			<filename>crwdns215869:0crwdne215869:0</filename>
+		</files>
+		<files folder="crwdns241496:0crwdne241496:0" target="crwdns241326:0crwdne241326:0">
+			<filename>crwdns215873:0crwdne215873:0</filename>
+			<filename>crwdns215875:0crwdne215875:0</filename>
+		</files>
+		<files folder="crwdns241498:0crwdne241498:0" target="crwdns241330:0crwdne241330:0">
+			<filename>crwdns215879:0crwdne215879:0</filename>
+		</files>
+		<files folder="crwdns241500:0crwdne241500:0" target="crwdns241334:0crwdne241334:0">
+			<filename>crwdns215883:0crwdne215883:0</filename>
+			<filename>crwdns215885:0crwdne215885:0</filename>
+		</files>
+		<files folder="crwdns241502:0crwdne241502:0" target="crwdns241338:0crwdne241338:0">
+			<filename>crwdns215889:0crwdne215889:0</filename>
+			<filename>crwdns215891:0crwdne215891:0</filename>
+		</files>
+		<files folder="crwdns241504:0crwdne241504:0" target="crwdns241342:0crwdne241342:0">
+			<filename>crwdns215895:0crwdne215895:0</filename>
+			<filename>crwdns215897:0crwdne215897:0</filename>
+		</files>
+
+		<!-- Plugins flexicontent -->
+		<files folder="crwdns241506:0crwdne241506:0" target="crwdns241346:0crwdne241346:0">
+			<filename>crwdns215901:0crwdne215901:0</filename>
+		</files>
+		<files folder="crwdns241508:0crwdne241508:0" target="crwdns241350:0crwdne241350:0">
+			<filename>crwdns215905:0crwdne215905:0</filename>
+		</files>
+		<files folder="crwdns241510:0crwdne241510:0" target="crwdns241354:0crwdne241354:0">
+			<filename>crwdns215909:0crwdne215909:0</filename>
+		</files>
+		<files folder="crwdns241512:0crwdne241512:0" target="crwdns241358:0crwdne241358:0">
+			<filename>crwdns215913:0crwdne215913:0</filename>
+		</files>
+		<files folder="crwdns241514:0crwdne241514:0" target="crwdns241362:0crwdne241362:0">
+			<filename>crwdns215917:0crwdne215917:0</filename>
+		</files>
+		<files folder="crwdns241516:0crwdne241516:0" target="crwdns241366:0crwdne241366:0">
+			<filename>crwdns215921:0crwdne215921:0</filename>
+		</files>
+		<files folder="crwdns241518:0crwdne241518:0" target="crwdns241370:0crwdne241370:0">
+			<filename>crwdns215925:0crwdne215925:0</filename>
+		</files>
+		<files folder="crwdns241520:0crwdne241520:0" target="crwdns241374:0crwdne241374:0">
+			<filename>crwdns215929:0crwdne215929:0</filename>
+		</files>
+		<files folder="crwdns241522:0crwdne241522:0" target="crwdns241378:0crwdne241378:0">
+			<filename>crwdns215933:0crwdne215933:0</filename>
+		</files>
+		<files folder="crwdns241524:0crwdne241524:0" target="crwdns241382:0crwdne241382:0">
+			<filename>crwdns215937:0crwdne215937:0</filename>
+		</files>
+		<files folder="crwdns241526:0crwdne241526:0" target="crwdns241386:0crwdne241386:0">
+			<filename>crwdns215941:0crwdne215941:0</filename>
+		</files>
+		<files folder="crwdns241528:0crwdne241528:0" target="crwdns241390:0crwdne241390:0">
+			<filename>crwdns215945:0crwdne215945:0</filename>
+		</files>
+		<files folder="crwdns241530:0crwdne241530:0" target="crwdns241394:0crwdne241394:0">
+			<filename>crwdns215949:0crwdne215949:0</filename>
+		</files>
+		<files folder="crwdns241532:0crwdne241532:0" target="crwdns241398:0crwdne241398:0">
+			<filename>crwdns215953:0crwdne215953:0</filename>
+		</files>
+		<files folder="crwdns241534:0crwdne241534:0" target="crwdns241402:0crwdne241402:0">
+			<filename>crwdns215957:0crwdne215957:0</filename>
+		</files>
+		<files folder="crwdns241536:0crwdne241536:0" target="crwdns241406:0crwdne241406:0">
+			<filename>crwdns215961:0crwdne215961:0</filename>
+		</files>
+		<files folder="crwdns241538:0crwdne241538:0" target="crwdns241410:0crwdne241410:0">
+			<filename>crwdns215965:0crwdne215965:0</filename>
+		</files>
+		<files folder="crwdns241540:0crwdne241540:0" target="crwdns241414:0crwdne241414:0">
+			<filename>crwdns215969:0crwdne215969:0</filename>
+		</files>
+		<files folder="crwdns241542:0crwdne241542:0" target="crwdns241418:0crwdne241418:0">
+			<filename>crwdns215973:0crwdne215973:0</filename>
+		</files>
+		<files folder="crwdns241544:0crwdne241544:0" target="crwdns241422:0crwdne241422:0">
+			<filename>crwdns215977:0crwdne215977:0</filename>
+		</files>
+		<files folder="crwdns241546:0crwdne241546:0" target="crwdns241426:0crwdne241426:0">
+			<filename>crwdns215981:0crwdne215981:0</filename>
+		</files>
+		<files folder="crwdns241548:0crwdne241548:0" target="crwdns241430:0crwdne241430:0">
+			<filename>crwdns215985:0crwdne215985:0</filename>
+		</files>
+		<files folder="crwdns241550:0crwdne241550:0" target="crwdns241434:0crwdne241434:0">
+			<filename>crwdns215989:0crwdne215989:0</filename>
+		</files>
+		<files folder="crwdns241552:0crwdne241552:0" target="crwdns241438:0crwdne241438:0">
+			<filename>crwdns215993:0crwdne215993:0</filename>
+		</files>
+		<files folder="crwdns241554:0crwdne241554:0" target="crwdns241442:0crwdne241442:0">
+			<filename>crwdns215997:0crwdne215997:0</filename>
+		</files>
+		<files folder="crwdns241556:0crwdne241556:0" target="crwdns241446:0crwdne241446:0">
+			<filename>crwdns216001:0crwdne216001:0</filename>
+		</files>
+		<files folder="crwdns241558:0crwdne241558:0" target="crwdns241450:0crwdne241450:0">
+			<filename>crwdns216005:0crwdne216005:0</filename>
+		</files>
+		<files folder="crwdns241560:0crwdne241560:0" target="crwdns241454:0crwdne241454:0">
+			<filename>crwdns216009:0crwdne216009:0</filename>
+		</files>
+		<files folder="crwdns241562:0crwdne241562:0" target="crwdns241458:0crwdne241458:0">
+			<filename>crwdns216013:0crwdne216013:0</filename>
+		</files>
+		<files folder="crwdns241564:0crwdne241564:0" target="crwdns241462:0crwdne241462:0">
+			<filename>crwdns216017:0crwdne216017:0</filename>
+		</files>
+		<files folder="crwdns241566:0crwdne241566:0" target="crwdns241466:0crwdne241466:0">
+			<filename>crwdns216021:0crwdne216021:0</filename>
+		</files>
+		<files folder="crwdns241568:0crwdne241568:0" target="crwdns241470:0crwdne241470:0">
+			<filename>crwdns216025:0crwdne216025:0</filename>
+		</files>
+		<files folder="crwdns241570:0crwdne241570:0" target="crwdns241474:0crwdne241474:0">
+			<filename>crwdns216029:0crwdne216029:0</filename>
+		</files>
+		<files folder="crwdns241572:0crwdne241572:0" target="crwdns241478:0crwdne241478:0">
+			<filename>crwdns216033:0crwdne216033:0</filename>
+		</files>
+		</fileset>
+	<updateservers>
+		<server type="crwdns241480:0crwdne241480:0" priority="crwdns241482:0crwdne241482:0" name="crwdns241484:0crwdne241484:0">
+crwdns26522:0crwdne26522:0</server>
+	</updateservers>
+</extension>
