@@ -1,20 +1,64 @@
-name: Crowdin Action
+name: Build and Release
 
-on:
-  workflow_dispatch:
-  
+on: workflow_dispatch
+
+env:
+  tag_name: 'latest'
+
 jobs:
-  synchronize-with-crowdin:
+  build_and_release:
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v4
+      - name: Checkout code
+        uses: actions/checkout@v4
 
-    - name: Crowdin action
-      uses: crowdin/github-action@v1
-      with:
-        upload_sources: false
-        download_translations: true
-      env:
-        CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
-        CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
+      - name: crowdin action
+        uses: crowdin/github-action@v2
+        with:
+          upload_sources: false
+          upload_translations: false
+          download_sources: false
+          download_translations: true
+          localization_branch_name: master
+          skip_untranslated_strings: false
+          skip_untranslated_files: false
+          push_translations: false
+          push_sources: false
+          create_pull_request: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
+          CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
+
+      - name: Build
+        run: ./build.sh
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          files: |
+            ./distribution/cs-CS.zip
+            ./distribution/de-DE.zip
+            ./distribution/el-GR.zip
+            ./distribution/en-GB.zip
+            ./distribution/es-ES.zip
+            ./distribution/fr-FR.zip
+            ./distribution/it-IT.zip
+            ./distribution/ja-JP.zip
+            ./distribution/pl-PL.zip
+            ./distribution/pt-BR.zip
+            ./distribution/pt-PT.zip
+            ./distribution/ru-RU.zip
+            ./distribution/sv-SE.zip
+            ./distribution/th-TH.zip
+            ./distribution/tr-TR.zip
+            ./distribution/zh-TW.zip
+          tag_name: ${{ env.tag_name }}
+          name: Release ${{ env.tag_name }}
+          body: Auto-generated release from ${{ env.tag_name }}
+          generate_release_notes: false
+          fail_on_unmatched_files: true
+          draft: false
+          prerelease: false
