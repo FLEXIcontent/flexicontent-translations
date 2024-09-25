@@ -1,7 +1,7 @@
 #!/bin/bash
 
 declare -a languageMap=(
-  "cs-CS"
+  "cs-CZ"
   "de-DE"
   "el-GR"
   "en-GB"
