@@ -15,6 +15,7 @@ jobs:
       - name: crowdin action
         uses: crowdin/github-action@v2
         with:
+          crowdin_branch_name: master
           upload_sources: false
           upload_translations: false
           download_sources: false
