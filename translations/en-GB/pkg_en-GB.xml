@@ -159,16 +159,16 @@
 		<files folder="plugins/flexicontent_fields/jprofile/language/en-GB" target="administrator/language/en-GB">
 			<filename>en-GB.plg_flexicontent_fields_jprofile.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/linkslist/language/en-GB" target="administrator/language/en-GB">
+		<files folder="c" target="administrator/language/en-GB">
 			<filename>en-GB.plg_flexicontent_fields_linkslist.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/minigallery/language/en-GB" target="administrator/language/en-GB">
+		<files folder="plugins/flexicontent_fields/linkslist/language/en-GB" target="administrator/language/en-GB">
 			<filename>en-GB.plg_flexicontent_fields_minigallery.ini</filename>
 		</files>
 		<files folder="plugins/flexicontent_fields/phonenumbers/language/en-GB" target="administrator/language/en-GB">
 			<filename>en-GB.plg_flexicontent_fields_phonenumbers.ini</filename>
 		</files>
-		<files folder="plugins/flexicontent_fields/radio/language/en-GB" target="administrator/language/en-GB">
+		<files folder="plugins/flexicontent_fields/phonenumbers/language/en-GB" target="administrator/language/en-GB">
 			<filename>en-GB.plg_flexicontent_fields_radio.ini</filename>
 		</files>
 		<files folder="plugins/flexicontent_fields/radioimage/language/en-GB" target="administrator/language/en-GB">
