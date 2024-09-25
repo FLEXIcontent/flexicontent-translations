@@ -40,7 +40,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           files: |
-            ./distribution/cs-CS.zip
+            ./distribution/cs-CZ.zip
             ./distribution/de-DE.zip
             ./distribution/el-GR.zip
             ./distribution/en-GB.zip
