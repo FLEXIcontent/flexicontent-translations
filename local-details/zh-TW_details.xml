@@ -4,7 +4,7 @@
 <description>Chinese Traditional Translation of Flexicontent</description>
 <element>pkg_zh-TW</element>
 <type>package</type>
-<version>3.9</version>
+<version>3.9.1</version>
 <downloads>
 <downloadurl type="full" format="zip">
 https://github.com/FLEXIcontent/flexicontent-translations/releases/download/latest/zh-TW.zip
