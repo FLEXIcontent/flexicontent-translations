@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension type="file" version="3.2" method="upgrade">
 	<name>Pacote em Português para Flexicontent</name>
-	<version>3.9.1</version>
+	<version>3.9.3</version>
 	<creationDate/>
 	<author>Flexicontent.org</author>
 	<authorEmail>traduction@Flexicontent.org</authorEmail>
@@ -35,7 +35,7 @@
 		<!-- Backend-end -->
 		<files folder="admin/language/pt-BR" target="administrator/language/pt-BR">
 			<filename>pt-BR.com_flexicontent.ini</filename>
-			<filename>en-GB.com_flexicontent.sys.ini</filename>
+			<filename>pt-BR.com_flexicontent.sys.ini</filename>
 		</files>
 
 		<!-- Modules -->
