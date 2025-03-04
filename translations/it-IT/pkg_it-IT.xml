@@ -35,7 +35,7 @@
 		<!-- Backend-end -->
 		<files folder="admin/language/it-IT" target="administrator/language/it-IT">
 			<filename>it-IT.com_flexicontent.ini</filename>
-			<filename>en-GB.com_flexicontent.sys.ini</filename>
+			<filename>it-IT.com_flexicontent.sys.ini</filename>
 		</files>
 
 		<!-- Modules -->
