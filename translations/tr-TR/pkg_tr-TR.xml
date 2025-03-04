@@ -35,7 +35,7 @@
 		<!-- Backend-end -->
 		<files folder="admin/language/tr-TR" target="administrator/language/tr-TR">
 			<filename>tr-TR.com_flexicontent.ini</filename>
-			<filename>tr-TR.com_flexicontent.ini</filename>
+			<filename>en-GB.com_flexicontent.sys.ini</filename>
 		</files>
 
 		<!-- Modules -->
