@@ -35,7 +35,7 @@
 		<!-- Backend-end -->
 		<files folder="admin/language/ja-JP" target="administrator/language/ja-JP">
 			<filename>ja-JP.com_flexicontent.ini</filename>
-			<filename>ja-JP.com_flexicontent.ini</filename>
+			<filename>en-GB.com_flexicontent.sys.ini</filename>
 		</files>
 
 		<!-- Modules -->
