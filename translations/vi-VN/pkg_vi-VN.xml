@@ -35,7 +35,7 @@
 		<!-- Backend-end -->
 		<files folder="admin/language/vi-VN" target="administrator/language/vi-VN">
 			<filename>vi-VN.com_flexicontent.ini</filename>
-			<filename>en-GB.com_flexicontent.sys.ini</filename>
+			<filename>vi-VN.com_flexicontent.sys.ini</filename>
 		</files>
 
 		<!-- Modules -->
