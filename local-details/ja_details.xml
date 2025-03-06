@@ -10,5 +10,6 @@
 https://github.com/FLEXIcontent/flexicontent-translations/releases/download/latest/ja-JP.zip
 </downloadurl>
 </downloads>
+  <targetplatform name="joomla" version=".*"/>
 </update>
 </updates>
