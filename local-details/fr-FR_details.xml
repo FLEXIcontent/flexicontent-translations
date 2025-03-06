@@ -13,5 +13,6 @@
 	<tags>
 	<tag>stable</tag>
 	</tags>
+	<targetplatform name="joomla" version=".*"/>
 	</update>
 </updates>
