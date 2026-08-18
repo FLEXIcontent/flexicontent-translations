@@ -1,44 +1,19 @@
-#
-# Your Crowdin credentials
-#
-"project_id_env": "CROWDIN_PROJECT_ID"
-"api_token_env": "CROWDIN_PERSONAL_TOKEN"
-"base_path": "."
-"base_url": "https://api.crowdin.com"
-
-#
-# Choose file structure in Crowdin
-# e.g. true or false
-#
-"preserve_hierarchy": true
-
-#
-# Files configuration
-#
-files: [
-  {
-    "source": "/resources/pkg_en-GB.xml",
-    "translation": "/translations/%locale%/pkg_%locale%.xml",
-    "translate_attributes": 1
-  },
-  {
-    "source": "/resources/admin/language/en-GB/*.ini",
-    "translation": "/translations/%locale%/admin/language/%locale%/%locale%.%original_file_name%",
-  },
-  {
-    "source": "/resources/site/language/en-GB/*.ini",
-    "translation": "/translations/%locale%/site/language/%locale%/%locale%.%original_file_name%",
-  },
-  {
-    "source": "/resources/site/templates/**/language/en-GB/*.ini",
-    "translation": "/translations/%locale%/site/templates/**/language/%locale%/%locale%.%original_file_name%",
-  },
-  {
-    "source": "/resources/modules/**/language/*.ini",
-    "translation": "/translations/%locale%/modules/**/language/%locale%/%locale%.%original_file_name%",
-  },
-  {
-    "source": "/resources/plugins/**/*.ini",
-    "translation": "/translations/%locale%/plugins/**/language/%locale%/%locale%.%original_file_name%",
-  },
-]
+project_id_env: CROWDIN_PROJECT_ID
+api_token_env: CROWDIN_PERSONAL_TOKEN
+base_path: .
+base_url: 'https://api.crowdin.com'
+preserve_hierarchy: true
+files:
+  - source: /resources/pkg_en-GB.xml
+    translation: /translations/%locale%/pkg_%locale%.xml
+    translate_attributes: 1
+  - source: /resources/admin/language/en-GB/*.ini
+    translation: /translations/%locale%/admin/language/%locale%/%locale%.%original_file_name%
+  - source: /resources/site/language/en-GB/*.ini
+    translation: /translations/%locale%/site/language/%locale%/%locale%.%original_file_name%
+  - source: /resources/site/templates/**/language/en-GB/*.ini
+    translation: /translations/%locale%/site/templates/**/language/%locale%/%locale%.%original_file_name%
+  - source: /resources/modules/**/language/*.ini
+    translation: /translations/%locale%/modules/**/language/%locale%/%locale%.%original_file_name%
+  - source: /resources/plugins/**/*.ini
+    translation: /translations/%locale%/plugins/**/language/%locale%/%locale%.%original_file_name%
